@@ -1,0 +1,1357 @@
+Candidatus Pelagibacter ubique HTCC1062 chromosome, complete genome - 1..1308759
+1354 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+516..1535	-	339	304570536	ilvC	SAR11_0001	-	COG0059EH	ketol-acid reductoisomerase
+1556..2104	-	182	71082711	ilvH	SAR11_0002	-	COG0440E	acetolactate synthase small subunit
+2105..3871	-	588	71082712	ilvB	SAR11_0003	-	COG0028EH	acetolactate synthase 3 catalytic subunit
+3891..4832	-	313	71082713	miaA	SAR11_0004	-	COG0324J	tRNA isopentenyltransferase
+4835..6247	-	470	71082714	htrA	SAR11_0005	-	COG0265O	periplasmic serine protease DO-like
+6249..6434	-	61	71082715	-	SAR11_0006	-	COG3242S	ubiquitin binding protein
+6444..7310	-	288	71082716	hflC	SAR11_0007	-	COG0330O	integral membrane proteinase
+7310..8410	-	366	71082717	hflK	SAR11_0008	-	COG0330O	integral membrane proteinase
+8411..9286	+	291	71082718	mrp	SAR11_0009	-	COG0489D	ATPase
+9267..10301	-	344	71082719	thyX	SAR11_0010	-	COG1351F	FAD-dependent thymidylate synthase
+10519..10890	-	123	71082720	-	SAR11_0011	-	COG4696S	hypothetical protein
+10957..12345	+	462	71082721	fumC	SAR11_0012	-	COG0114C	fumarate hydratase
+12333..13784	-	483	71082722	-	SAR11_0013	-	-	hypothetical protein
+13829..15865	+	678	71082723	uvrD	SAR11_0014	-	COG0210L	DNA helicase II
+15862..17556	+	564	71082724	pepP	SAR11_0015	-	COG0006E	Xaa-Pro aminopeptidase
+17539..19569	-	676	71082725	ligA	SAR11_0016	-	COG0272L	DNA ligase
+19571..20419	-	282	71082726	comL	SAR11_0017	-	COG4105R	competence lipoprotein ComL
+20458..21378	-	306	71082727	lpxC	SAR11_0018	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+21444..22553	-	369	71082728	ftsA	SAR11_0019	-	COG0849D	cell division protein FtsA
+22553..23230	-	225	71082729	ftsQ	SAR11_0020	-	COG1589M	cell division protein FtsQ
+23211..24125	-	304	71082730	ddlB	SAR11_0021	-	COG1181M	D-alanine--D-alanine ligase
+24127..25035	-	302	71082731	murB	SAR11_0022	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+25035..26429	-	464	71082732	murC	SAR11_0023	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+26419..27489	-	356	71082733	murG	SAR11_0024	-	COG0707M	D-inositol-3-phosphate glycosyltransferase
+27490..28614	-	374	71082734	ftsW	SAR11_0025	-	COG0772D	cell division protein FtsW
+28611..29906	-	431	71082735	murD	SAR11_0026	-	COG0771M	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+29906..30991	-	361	71082736	mraY	SAR11_0027	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+30981..33827	-	948	71082737	murEF	SAR11_0028	-	COG0769M	bifunctional UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase/UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase
+33835..35511	-	558	71082738	ftsI	SAR11_0029	-	COG0768M	cell division protein FtsI
+35504..35812	-	102	71082739	ftsL	SAR11_0030	-	-	cell division protein FtsL
+35809..36819	-	336	71082740	mraW	SAR11_0031	-	COG0275M	S-adenosyl-methyltransferase
+36838..38325	-	495	71082741	ftsZ	SAR11_0032	-	COG0206D	cell division protein FtsZ
+38328..38795	-	155	71082742	mraZ	SAR11_0033	-	COG2001S	cell division protein MraZ
+39448..40191	-	247	71082743	ybjR	SAR11_0034	-	COG3023V	N-acetylmuramoyl-L-alanine amidase
+40261..41046	+	261	71082744	vacJ	SAR11_0035	-	COG2853M	lipoprotein precursor
+41060..41653	+	197	71082745	yrbC	SAR11_0036	-	COG2854Q	hypothetical protein
+41900..43687	-	595	71082746	rpoD	SAR11_0037	-	COG0568K	RNA polymerase sigma factor RpoD
+43790..45565	-	591	71082747	dnaG	SAR11_0038	-	COG0358L	DNA primase
+45565..46026	-	153	71082748	yqeY	SAR11_0039	-	COG1610S	hypothetical protein
+46155..47351	+	398	71082749	carA	SAR11_0040	-	COG0505EF	carbamoylphosphate synthase small subunit
+47329..50553	+	1074	71082750	carB	SAR11_0041	-	COG0458EF	carbamoyl-phosphate synthase large subunit
+50650..52812	-	720	304570537	-	SAR11_0042	-	-	secretory autotransporter
+52886..53026	-	46	71082752	-	SAR11_0043	-	-	hypothetical protein
+53177..55348	+	723	71082753	-	SAR11_0044	-	COG4625S	Outer membrane autotransporter
+55348..55692	+	114	71082754	-	SAR11_0045	-	-	hypothetical protein
+55701..57875	-	724	304570538	-	SAR11_0046	-	COG4625S	Outer membrane autotransporter
+58036..59004	+	322	71082756	-	SAR11_0047	-	-	transcription regulatory protein
+58997..59845	-	282	71082757	-	SAR11_0048	-	COG0385R	Sodium bile symporter family protein
+60069..62204	-	711	71082758	-	SAR11_0049	-	COG0004P	ammonium transporter
+62323..64560	-	745	71082759	-	SAR11_0050	-	COG0004P	ammonium transporter
+64574..64903	-	109	71082760	copZ	SAR11_0051	-	COG2608P	heavy metal transport/detoxification protein
+65036..65326	-	96	71082761	-	SAR11_0052	-	-	hypothetical protein
+65399..65836	-	145	71082762	pulG	SAR11_0053	-	COG4968NU	pseudo-pilin PulG
+65846..66331	-	161	71082763	pilA	SAR11_0054	-	COG4968NU	pilin
+66490..66774	+	94	71082764	-	SAR11_0055	-	COG1366T	sulfate transporter/antisigma-factor antagonist STAS
+66771..67070	+	99	71082765	spoIIA	SAR11_0056	-	COG1366T	sulfate transporter/antisigma-factor antagonist STAS
+67078..67512	+	144	71082766	rsbW	SAR11_0057	-	COG2172T	anti-sigma regulatory factor
+67509..68741	-	410	71082767	pilC	SAR11_0058	-	COG1459NU	type II secretion system PilC
+68744..70495	-	583	71082768	pilB	SAR11_0059	-	COG2804NU	type II secretion system PilB
+70495..72051	-	518	71082769	pilQ	SAR11_0060	-	COG1450NU	type II secretion PilQ
+72054..72560	-	168	71082770	pilP	SAR11_0061	-	-	type 4 fimbrial biogenesis protein PilP
+72547..73224	-	225	71082771	pilO	SAR11_0062	-	-	type 4 fimbrial biogenesis protein PilO
+73227..75770	-	847	71082772	pilMN	SAR11_0063	-	COG4972NU	type II secretion
+77115..78461	-	448	71082773	rsbU	SAR11_0064	-	COG2208TK	sigma factor sigB regulation protein
+78561..79325	+	254	71082774	pild	SAR11_0065	-	COG1989NOU	type II secretion PilD
+79386..80105	+	239	71082775	fimc	SAR11_0067	-	-	membrane-bound pili assembly protein Fimc
+80345..84916	-	1523	71082776	pilY1	SAR11_0068	-	COG3419NU	type II secretion PilY1
+85064..85588	-	174	71082777	-	SAR11_0069	-	-	pilX-type protein
+85664..86368	-	234	71082778	-	SAR11_0070	-	-	type IV pilus assembly protein PilW
+86437..87291	-	284	71082779	-	SAR11_0071	-	-	type IV pilin secretion protein
+87366..88016	-	216	71082780	-	SAR11_0072	-	COG4967NU	pilV-like pilin protein
+88021..88746	-	241	71082781	-	SAR11_0073	-	COG4970NU	pilin protein PilU
+88721..89734	-	337	71082782	pilT	SAR11_0074	-	COG2805NU	type II secretion PilT
+89886..90548	-	220	71082783	-	SAR11_0075	-	-	hypothetical protein
+90548..91492	-	314	71082784	-	SAR11_0076	-	COG3660M	nucleoside-diphosphate-sugar epimerase
+91514..92458	+	314	71082785	trxB	SAR11_0077	-	COG0492O	thioredoxin reductase
+92500..93519	+	339	71082786	-	SAR11_0078	-	COG0451MG	NAD dependent epimerase/dehydratase protein
+93511..93960	-	149	71082787	ytoQ	SAR11_0079	-	COG3613F	hypothetical protein
+93960..95159	-	399	71082788	aatA	SAR11_0080	-	COG0436E	aspartate transaminase
+95195..97366	+	723	71082789	uvrB	SAR11_0081	-	COG0556L	excinuclease ABC subunit B
+97348..98100	+	250	71082790	-	SAR11_0082	-	COG1028IQR	short-chain dehydrogenase
+98097..98522	+	141	71082791	folB	SAR11_0083	-	COG1539H	dihydroneopterin aldolase
+98509..100344	+	611	71082792	uvrC	SAR11_0084	-	COG0322L	excinuclease ABC subunit C
+100347..100931	+	194	71082793	pgsA	SAR11_0085	-	COG0558I	CDP-diacylglycerol
+100928..101809	-	293	71082794	ilvE	SAR11_0086	-	COG0115EH	branched-chain amino acid aminotransferase
+101880..102317	+	145	71082795	petP	SAR11_0087	-	COG1846K	transcriptional regulator
+102310..102987	+	225	71082796	petR	SAR11_0088	-	COG0745TK	two-component system
+102968..104287	+	439	71082797	envZ	SAR11_0089	-	COG0642T	osmolarity sensor protein envZ
+104265..104519	-	84	71082798	-	SAR11_0090	-	-	hypothetical protein
+104566..105336	+	256	71082799	lgt	SAR11_0091	-	COG0682M	prolipoprotein diacylglyceryl transferase
+105326..106369	+	347	71082800	cdfA	SAR11_0092	-	COG1565S	cyclopropane-fatty-acyl-phospholipid synthase
+106800..107135	+	111	71082801	-	SAR11_0093	-	COG1496S	hypothetical protein
+107142..108074	+	310	71082802	prsA	SAR11_0094	-	COG0462FE	ribose-phosphate pyrophosphokinase
+108119..108805	+	228	71082803	rplY	SAR11_0095	-	COG1825J	ribosomal 5S rRNA E-loop binding protein Ctc/L25/TL5
+108851..109411	+	186	71082804	pth	SAR11_0096	-	COG0193J	peptidyl-tRNA hydrolase
+109411..110484	+	357	71082805	-	SAR11_0097	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+110461..111240	-	259	71082806	fbcH	SAR11_0098	-	COG2857C	ubiquinol-cytochrome-c reductase
+111245..112504	-	419	71082807	petB	SAR11_0099	-	COG1290C	ubiquinol-cytochrome-c reductase
+112514..113023	-	169	71082808	petA	SAR11_0100	-	COG0723C	cytochrome b6-f complex iron-sulfur subunit
+113110..113571	+	153	71082809	spoU	SAR11_0101	-	COG0219J	rRNA methylase
+113571..114398	+	275	71082810	hemF	SAR11_0102	-	COG0408H	coproporphyrinogen III oxidase
+114400..114876	+	158	71082811	greA	SAR11_0103	-	COG0782K	transcription elongation factor
+114873..116147	-	424	71082812	pcnB	SAR11_0104	-	COG0617J	poly(A) polymerase
+116257..117102	-	281	71082813	ispE	SAR11_0105	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+117106..118791	-	561	71082814	-	SAR11_0106	-	COG5010U	hypothetical protein
+118803..119534	+	243	71082815	-	SAR11_0107	-	COG1573L	DNA-directed DNA polymerase
+119534..120094	+	186	71082816	rnhB	SAR11_0108	-	COG0164L	ribonuclease HII (RNase HII)
+120216..121286	+	356	71082817	babIM	SAR11_0109	-	COG0863L	site-specific DNA methyltransferase
+121283..122434	-	383	71082818	nah	SAR11_0110	-	COG0654HC	salicylate 1-monooxygenase
+122434..123414	-	326	71082819	mutY	SAR11_0111	-	COG1194L	A/G-specific adenine glycosylase
+123415..123903	+	162	71082820	-	SAR11_0112	-	COG5389	hypothetical protein
+123975..124490	+	171	71082821	-	SAR11_0113	-	COG1651O	DsbA-like protein
+124499..127072	+	857	71082822	smc	SAR11_0114	-	COG1196D	SMC family chromosome segregation protein
+127081..127356	+	91	71082823	-	SAR11_0115	-	COG5336S	transmembrane protein
+127369..128103	+	244	71082824	atpB	SAR11_0116	-	COG0356C	ATP synthase F0F1 subunit A
+128123..128350	+	75	71082825	atpE	SAR11_0117	-	COG0636C	ATP synthase F0F1 subunit C
+128407..128946	+	179	71082826	-	SAR11_0118	-	COG0711C	H+-transporting two-sector ATPase (subunit b')
+128936..129433	+	165	71082827	atpF	SAR11_0119	-	COG0711C	H+-transporting two-sector ATPase (subunit b)
+129473..130930	+	485	71082828	crtI	SAR11_0120	-	COG1233Q	phytoene dehydrogenase
+130930..131781	+	283	71082829	crtB	SAR11_0121	-	COG1562I	phytoene synthase
+131813..132844	+	343	71082830	crtY	SAR11_0122	-	-	lycopene cyclase
+132834..133772	+	312	71082831	-	SAR11_0123	-	-	transmembrane protein
+133762..134706	+	314	71082832	lytB	SAR11_0124	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+134707..135675	+	322	71082833	thrB	SAR11_0125	-	COG2334R	homoserine kinase
+135675..136100	+	141	71082834	rnhA	SAR11_0126	-	COG0328L	ribonuclease H (RNase H)
+136092..136577	-	161	71082835	pmpA	SAR11_0127	-	COG0678O	peroxisomal membrane protein a (pmp20)
+136574..137953	-	459	71082836	thrC	SAR11_0128	-	COG0498E	threonine synthase
+137954..138607	-	217	71082837	surf1	SAR11_0129	-	COG3346S	surfeit locus protein 1
+138618..139406	-	262	71082838	coxC	SAR11_0130	-	COG1845C	cytochrome-c oxidase
+139409..139945	-	178	71082839	ctaG	SAR11_0131	-	COG3175O	cytochrome C oxidase assembly protein
+139945..140070	-	41	71082840	-	SAR11_0132	-	-	serine protease inhibitor sgti
+140067..140978	-	303	304570539	ctaB	SAR11_0133	-	COG0109O	cytochrome c oxidase assembly factor
+141011..142645	-	544	71082842	cox1	SAR11_0134	-	COG0843C	cytochrome-c oxidase
+142648..143463	-	271	71082843	coxB	SAR11_0135	-	COG1622C	cytochrome c oxidase polypeptide II (cytochrome aa3 subunit 2)
+143525..144226	-	233	71082844	-	SAR11_0136	-	COG1385S	hypothetical protein
+144244..144906	+	220	71082845	dhlB	SAR11_0137	-	COG1011R	(S)-2-haloacid dehalogenase
+144899..145258	-	119	71082846	-	SAR11_0138	-	COG1733K	transcriptional regulator
+145353..145589	+	78	71082847	-	SAR11_0139	-	COG3369S	glutamate synthetase
+145619..145999	+	126	71082848	-	SAR11_0140	-	COG2259S	DoxD-like family protein
+146096..147634	+	512	71082849	-	SAR11_0141	-	COG0069E	ferredoxin-dependent glutamate synthase peptide
+147644..148483	+	279	71082850	-	SAR11_0142	-	COG1741R	pirin
+148483..149457	+	324	71082851	qor	SAR11_0143	-	COG0604CR	quinone oxidoreductase
+149454..149858	-	134	71082852	-	SAR11_0144	-	-	hypothetical protein
+149911..150774	+	287	71082853	ubiA	SAR11_0145	-	COG0382H	4-hydroxybenzoate octaprenyltransferase
+150774..152513	+	579	71082854	-	SAR11_0147	-	COG1132V	ABC transporter ATP-binding protein
+152513..153775	+	420	71082855	kdtA	SAR11_0148	-	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+153756..154700	+	314	71082856	lpxK	SAR11_0149	-	COG1663M	tetraacyldisaccharide 4'-kinase
+154687..155547	+	286	71082857	htrB	SAR11_0151	-	COG1560M	lipid A biosynthesis lauroyl acyltransferase
+155552..155740	-	62	71082858	-	SAR11_0152	-	COG3908	hypothetical protein
+155762..157027	+	421	71082859	purD	SAR11_0153	-	COG0151F	phosphoribosylamine--glycine ligase
+157024..157590	+	188	71082860	-	SAR11_0154	-	COG0742L	N-6 adenine-specific DNA methylase
+157582..158724	-	380	71082861	pgi	SAR11_0155	-	COG0166G	glucose-6-phosphate isomerase
+158728..159102	-	124	304570540	-	SAR11_0156	-	-	hypothetical protein
+159167..159667	-	166	71082863	lspA	SAR11_0157	-	COG0597MU	lipoprotein signal peptidase
+159680..162397	-	905	71082864	ileS	SAR11_0158	-	COG0060J	isoleucyl-tRNA synthetase
+162399..163316	-	305	71082865	ribF	SAR11_0159	-	COG0196H	riboflavin biosynthesis protein
+163320..164138	-	272	71082866	-	SAR11_0160	-	COG0647G	haloacid dehalogenase
+164262..164552	+	96	71082867	groES	SAR11_0161	-	COG0234O	molecular chaperone GroES
+164576..166240	+	554	71082868	groEL	SAR11_0162	-	COG0459O	molecular chaperone GroEL
+166322..166435	+	37	71082869	-	SAR11_0163	-	-	hypothetical protein
+166432..168180	-	582	71082870	rlhE	SAR11_0164	-	COG0513LKJ	ATP-dependent RNA helicase
+168376..170202	+	608	71082871	typA	SAR11_0165	-	COG1217T	GTP-binding protein
+170199..170846	-	215	71082872	-	SAR11_0166	-	COG2364S	hypothetical protein
+170900..171580	+	226	71082873	-	SAR11_0167	-	-	hypothetical protein
+171583..172554	-	323	71082874	-	SAR11_0168	-	COG3380R	amine oxidase
+172551..173870	-	439	71082875	pmbA	SAR11_0169	-	COG0312R	protein for maturation of antibiotic MccB17
+173876..175288	-	470	71082876	tldD	SAR11_0170	-	COG0312R	protein that suppresses inhibitory activity of CsrA
+175399..175761	+	120	71082877	-	SAR11_0171	-	COG0607P	rhodanese-related sulfurtransferase
+175765..176112	+	115	71082878	-	SAR11_0172	-	-	hypothetical protein
+176158..176700	+	180	71082879	-	SAR11_0173	-	COG5010U	2-hydroxy-6-oxo-2,4-heptadienoate hydrolase
+176702..177877	-	391	71082880	-	SAR11_0174	-	-	hypothetical protein
+177954..178838	-	294	71082881	-	SAR11_0175	-	COG0329EM	dapA-like protein
+178883..179818	+	311	71082882	gmdA	SAR11_0176	-	COG1089M	GDP-mannose 4,6-dehydratase
+179815..180753	+	312	71082883	-	SAR11_0177	-	COG0859M	heptosyltransferase
+180750..181256	-	168	71082884	-	SAR11_0178	-	COG0484O	heat shock protein
+181274..183349	+	691	71082885	ptrB	SAR11_0180	-	COG1770E	oligopeptidase B
+183448..183894	+	148	71082886	ibpA	SAR11_0181	-	COG0071O	heat shock protein a
+183941..184246	-	101	71082887	-	SAR11_0182	-	-	hypothetical protein
+184378..185688	+	436	71082888	-	SAR11_0183	-	COG2252R	xanthine/uracil/vitamin C permease family protein
+185722..186258	-	178	71082889	-	SAR11_0184	-	COG2236R	phosphoribosyltransferase
+186287..186583	+	98	71082890	-	SAR11_0185	-	COG5470S	hypothetical protein
+186570..187142	-	190	71082891	tag	SAR11_0186	-	COG0122L	DNA-3-methyladenine glycosylase I
+187198..188082	-	294	71082892	-	SAR11_0187	-	COG0697GER	DMT family permease
+188118..188561	+	147	71082893	msrB	SAR11_0188	-	COG0225O	peptide methionine sulfoxide reductase
+188563..189375	+	270	71082894	sseA	SAR11_0189	-	COG2897P	thiosulfate sulfurtransferase
+189379..190248	+	289	71082895	yhil	SAR11_0190	-	COG0845M	HlyD family-like protein
+190248..193370	+	1040	71082896	-	SAR11_0191	-	COG0841V	AcrB/AcrD/AcrF family protein
+193367..193966	-	199	71082897	-	SAR11_0192	-	COG4764S	soluble lytic murein transglycosylase
+193953..194342	-	129	71082898	-	SAR11_1720	-	-	hypothetical protein
+194401..195117	+	238	71082899	gpmA	SAR11_0193	-	COG0588G	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+195106..195795	-	229	71082900	-	SAR11_0194	-	COG1208MJ	nucleotidyltransferase family protein
+195792..196757	-	321	71082901	-	SAR11_0195	-	COG3178R	phosphotransferase enzyme family protein
+196761..197219	-	152	71082902	-	SAR11_0196	-	COG0802R	cell division control protein 6
+197203..198489	-	428	71082903	ahcY	SAR11_0197	-	COG0499H	S-adenosyl-L-homocysteine hydrolase
+198533..200071	-	512	71082904	chvG	SAR11_0198	-	COG0642T	two-component sensor histidine kinase
+200071..200778	-	235	71082905	chvI	SAR11_0199	-	COG0745TK	two-component system response regulator
+200829..203603	-	924	71082906	polA	SAR11_0200	-	COG0749L	DNA polymerase I
+203654..204583	+	309	71082907	-	SAR11_0201	-	COG1131V	YadG-like ABC transporter protein
+204616..205167	+	183	71082908	-	SAR11_0202	-	COG1268R	biotin synthase
+205160..205723	-	187	71082909	-	SAR11_0203	-	COG4567TK	response regulator
+205872..207050	+	392	71082910	speC	SAR11_0204	-	COG0019E	lysine/ornithine decarboxylase
+207050..208093	+	347	71082911	dys2	SAR11_0205	-	COG1899O	deoxyhypusine synthase-like protein
+208096..208971	+	291	71082912	speB1	SAR11_0206	-	COG0010E	arginase
+208968..209522	-	184	71082913	yhhQ	SAR11_0207	-	COG1738S	hypothetical protein
+209522..209845	-	107	71082914	rpmB	SAR11_0208	-	COG0227J	50S ribosomal protein L28
+209899..210951	-	350	71082915	pyrD	SAR11_0209	-	COG0167F	dihydroorotate dehydrogenase
+210951..212528	-	525	71082916	lysK	SAR11_0210	-	COG1384J	lysyl-tRNA synthetase
+212604..214049	+	481	71082917	trkH	SAR11_0211	-	COG0168P	potassium uptake protein
+214052..215428	+	458	71082918	ampG	SAR11_0213	-	COG1480R	muropeptide permease
+215418..216164	+	248	71082919	-	SAR11_0214	-	COG0791M	hypothetical protein
+216161..217057	-	298	71082920	tyrA	SAR11_0215	-	COG0287E	prephenate dehydrogenase
+217060..218142	-	360	71082921	hisC	SAR11_0216	-	COG0079E	histidinol-phosphate aminotransferase
+218334..219452	+	372	71082922	metX	SAR11_0217	-	COG2021E	homoserine O-acetyltransferase
+219455..220051	+	198	71082923	metW	SAR11_0218	-	COG2226H	methionine biosynthesis protein
+220052..220771	+	239	71082924	gloB	SAR11_0219	-	COG0491R	hydroxyacylglutathione hydrolase cytoplasmic
+220837..221241	+	134	71082925	rplU	SAR11_0220	-	COG0261J	50S ribosomal protein L21
+221254..221508	+	84	71082926	rpmA	SAR11_0221	-	COG0211J	50S ribosomal protein L27
+221539..222522	+	327	71082927	obgE	SAR11_0222	-	COG0536R	GTPase ObgE
+222512..223618	+	368	71082928	proB	SAR11_0223	-	COG0263E	glutamate 5-kinase
+223620..224870	+	416	71082929	proA	SAR11_0224	-	COG0014E	gamma-glutamyl phosphate reductase
+224851..225393	+	180	71082930	ybeN	SAR11_0225	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+225411..225761	+	116	71082931	ybeB	SAR11_0226	-	COG0799S	iojap-like protein
+225758..226897	+	379	71082932	ctpA	SAR11_0227	-	COG0793M	tail-specific proteinase
+226898..227374	+	158	71082933	nudH	SAR11_0228	-	COG0494LR	(di)nucleoside polyphosphate hydrolase
+227367..227759	-	130	71082934	atpC	SAR11_0229	-	COG0355C	ATP synthase F1 subunit epsilon
+227759..229177	-	472	71082935	atpD	SAR11_0230	-	COG0055C	ATP synthase F0F1 subunit beta
+229180..230055	-	291	71082936	atpG	SAR11_0231	-	COG0224C	ATP synthase F0F1 subunit gamma
+230059..231594	-	511	71082937	atpA	SAR11_0232	-	COG0056C	ATP synthase F0F1 subunit alpha
+231595..232152	-	185	71082938	atpH	SAR11_0233	-	COG0712C	H+-transporting two-sector ATPase (F0F1-type ATP synthase) delta chain
+232263..234218	-	651	71082939	priA	SAR11_0234	-	COG1198L	primosomal protein N
+234241..235641	-	466	71082940	pdhD	SAR11_0235	-	COG1249C	dihydrolipoyl dehydrogenase
+235642..236919	-	425	71082941	sucB	SAR11_0236	-	COG0508C	2-oxoglutarate dehydrogenase E2
+236922..239825	-	967	71082942	sucA	SAR11_0237	-	COG0567C	2-oxoglutarate dehydrogenase E1
+239860..240735	-	291	71082943	sucD	SAR11_0238	-	COG0074C	succinyl-CoA synthetase subunit alpha (SCS-alpha)
+240737..241897	-	386	71082944	sucC	SAR11_0239	-	COG0045C	succinyl-CoA synthetase subunit beta (SCS-beta)
+241897..242859	-	320	71082945	mdh	SAR11_0240	-	COG0039C	malate dehydrogenase
+242868..244361	-	497	71082946	mmsA	SAR11_0241	-	COG1012C	methylmalonate-semialdehyde dehydrogenase [acylating] (MMSDH)
+244386..245159	-	257	71082947	sdhB	SAR11_0242	-	COG0479C	succinate dehydrogenase iron-sulfur subunit
+245159..246931	-	590	71082948	sdhA	SAR11_0243	-	COG1053C	succinate dehydrogenase flavoprotein subunit
+246931..247257	-	108	71082949	-	SAR11_0244	-	COG2142C	membrane portion of succinate dehydrogenase
+247259..247642	-	127	71082950	sdhC	SAR11_1721	-	COG2009C	succinate dehydrogenase cytochrome b
+247635..248636	-	333	71082951	asd	SAR11_0245	-	COG0136E	aspartate-semialdehyde dehydrogenase
+248657..249766	-	369	71082952	dmdA	SAR11_0246	-	COG0404E	dimethyl sulfoniopropionate demethylase
+249763..250539	-	258	71082953	mhpC	SAR11_0247	-	COG0596R	hydrolase
+250536..252164	-	542	71082954	fadD	SAR11_0248	-	COG0318IQ	acyl-CoA synthetase
+252166..253929	-	587	71082955	mmgC	SAR11_0249	-	COG1960I	acyl-CoA dehydrogenase
+253956..255062	-	368	71082956	leuB	SAR11_0250	-	COG0473CE	3-isopropylmalate dehydrogenase
+255049..255660	-	203	71082957	leuD	SAR11_0251	-	COG0066E	3-isopropylmalate dehydratase
+255662..257065	-	467	71082958	leuC	SAR11_0252	-	COG0065E	isopropylmalate isomerase large subunit
+257077..257571	-	164	71082959	rplS	SAR11_0253	-	COG0335J	50S ribosomal protein L19
+257588..258274	-	228	71082960	trmD	SAR11_0254	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+258283..258816	-	177	71082961	rpsP	SAR11_0255	-	COG0228J	30S ribosomal protein S16
+258831..260189	-	452	71082962	ffh	SAR11_0256	-	COG0541U	signal recognition particle protein
+260349..261173	+	274	71082963	dapF	SAR11_0257	-	COG0253E	diaminopimelate epimerase
+261173..262090	+	305	71082964	ftsY	SAR11_0258	-	COG0552U	cell division particle
+262083..262646	-	187	71082965	-	SAR11_0259	-	-	hypothetical protein
+262705..263598	-	297	71082966	-	SAR11_0260	-	COG0697GER	transporter
+263611..263790	-	59	71082967	-	SAR11_0262	-	-	transmembrane protein
+263780..265117	-	445	71082968	-	SAR11_0263	-	COG0154J	amidase
+265128..266489	-	453	71082969	-	SAR11_0264	-	COG4664Q	mannitol transporter
+266479..267063	-	194	71082970	-	SAR11_0265	-	COG4665Q	mannitol transporter
+267155..268312	-	385	71082971	-	SAR11_0266	-	COG4663Q	TRAP dicarboxylate transporter - DctP subunit (mannitol/chloroaromatic compounds)
+268433..269506	-	357	71082972	msmX	SAR11_0267	-	COG3839G	ABC sugar transporter
+269499..270578	-	359	71082973	msmX2	SAR11_0268	-	COG3839G	ABC sugar transporter
+270578..271426	-	282	71082974	ycjP	SAR11_0269	-	COG0395G	ABC transporter
+271429..272289	-	286	71082975	-	SAR11_0270	-	COG1175G	binding-protein dependent transport system inner membrane protein
+272358..273893	-	511	71082976	-	SAR11_0271	-	COG1653G	ABC transporter substrate-binding protein
+273915..274976	-	353	304570541	adhP	SAR11_0272	-	COG1064R	alcohol dehydrogenase
+275137..276219	+	360	71082978	stc	SAR11_0273	-	COG3284QK	transcriptional regulator
+276222..277439	-	405	71082979	-	SAR11_0274	-	COG2814G	major facilitator superfamily transporter
+277460..278413	-	317	71082980	-	SAR11_0275	-	COG1052CHR	dehydrogenase
+278416..279711	-	431	71082981	glcF	SAR11_0276	-	COG0247C	(S)-2-hydroxy-acid oxidase
+279711..280979	-	422	71082982	glcE	SAR11_0277	-	COG0277C	(S)-2-hydroxy-acid oxidase
+280945..282441	-	498	71082983	glcD	SAR11_0278	-	COG0277C	(S)-2-hydroxy-acid oxidase
+282447..283610	-	387	71082984	aspC	SAR11_0279	-	COG0436E	aspartate transaminase
+283684..284835	-	383	71082985	ildD	SAR11_0280	-	COG1304C	l-lactate dehydrogenase
+284844..285353	-	169	71082986	-	SAR11_0281	-	-	hypothetical protein
+285354..285734	-	126	71082987	-	SAR11_0282	-	COG3088O	hypothetical protein
+285731..286252	-	173	71082988	ccmG	SAR11_0283	-	COG0526OC	cytochrome C biogenesis protein ccmG
+286249..288126	-	625	71082989	ccmF	SAR11_0284	-	COG1138O	cytochrome c-type biogenesis protein
+288128..288547	-	139	71082990	ccmE	SAR11_0285	-	COG2332O	cytochrome c-type biogenesis protein
+288558..288785	-	75	71082991	ccmD	SAR11_0286	-	COG3114U	heme exporter protein D
+288782..289492	-	236	71082992	ccmC	SAR11_0287	-	COG0755O	heme exporter protein
+289675..289995	-	106	71082993	ccmB	SAR11_0288	-	COG3785S	hypothetical protein
+290074..290625	+	183	71082994	yciB	SAR11_0289	-	COG2917D	intracellular septation protein A
+290618..290962	+	114	71082995	-	SAR11_0290	-	-	hypothetical protein
+290968..291666	-	232	71082996	ybhL	SAR11_0291	-	COG0670R	hypothetical protein
+291790..292827	+	345	71082997	tas	SAR11_0292	-	COG0667C	aldo/keto reductase
+292818..293324	+	168	71082998	-	SAR11_0293	-	-	hypothetical protein
+293329..294516	+	395	71082999	argG	SAR11_0294	-	COG0137E	argininosuccinate synthase
+294521..295138	+	205	71083000	frnE	SAR11_0295	-	COG2761Q	polyketide biosynthesis dithiol-disulfide isomerase
+295195..295653	+	152	71083001	-	SAR11_0296	-	-	transmembrane protein
+295653..296033	+	126	71083002	-	SAR11_0297	-	-	phosphate-starvation-inducible E
+296040..297182	+	380	71083003	-	SAR11_0298	-	COG0415L	DNA photolyase-like protein
+297179..297400	-	73	71083004	-	SAR11_0299	-	-	transmembrane protein
+297397..298116	-	239	71083005	-	SAR11_0300	-	COG0518F	glutamine amidotransferase
+298160..298768	-	202	71083006	marC	SAR11_0301	-	COG2095U	multiple antibiotic resistance protein MarC
+298810..299223	-	137	71083007	yqaA	SAR11_0302	-	COG1238S	transmembrane protein
+299342..300832	-	496	71083008	-	SAR11_0303	-	COG3046R	deoxyribodipyrimidine photolyase-like protein
+300860..301570	+	236	304570542	-	SAR11_0304	-	COG1028IQR	short chain dehydrogenase
+301545..302636	+	363	71083010	yliI	SAR11_0305	-	COG2133G	glucose dehydrogenase
+302639..303691	-	350	71083011	-	SAR11_0306	-	COG2220R	hypothetical protein
+303706..304551	-	281	71083012	folD	SAR11_0307	-	COG0190H	methylenetetrahydrofolate dehydrogenase
+304560..304850	-	96	71083013	-	SAR11_1722	-	-	hypothetical protein
+304847..305932	-	361	71083014	-	SAR11_0308	-	COG0668M	mechanosensitive ion channel MscS
+305935..306633	-	232	71083015	hemD	SAR11_0309	-	COG1587H	uroporphyrinogen III synthase HEM4
+306635..307558	-	307	71083016	hemC	SAR11_0310	-	COG0181H	hydroxymethylbilane synthase
+307618..308691	+	357	71083017	ygjD	SAR11_0311	-	COG0533O	O-sialoglycoprotein endopeptidase
+308772..309617	+	281	71083018	-	SAR11_0312	-	-	sulfotransferase domain-containing protein
+309643..310056	+	137	71083019	-	SAR11_0313	-	COG2947S	hypothetical protein
+310070..312115	+	681	71083020	acsA	SAR11_0314	-	COG0365I	acetyl-CoA synthase
+312112..312735	-	207	71083021	-	SAR11_0315	-	-	potential esterase
+312873..313133	+	86	71083022	-	SAR11_1723	-	COG4327S	hypothetical protein
+313133..314941	+	602	71083023	yjcG	SAR11_0316	-	COG4147R	SSF family Na(+)/solute symporter
+315020..315376	+	118	71083024	-	SAR11_1724	-	-	hypothetical protein
+315405..316064	+	219	71083025	rpe	SAR11_0317	-	COG0036G	ribulose-phosphate 3-epimerase
+316069..317679	+	536	71083026	-	SAR11_0318	-	COG5360	hypothetical protein
+317679..319214	+	511	71083027	purH	SAR11_0319	-	COG0138F	bifunctional purine biosynthesis protein
+319204..319548	-	114	71083028	phhB	SAR11_0321	-	COG2154H	pterin-4-alpha-carbinolamine dehydratase
+319743..320384	+	213	71083029	-	SAR11_0322	-	COG2802R	hypothetical protein
+320387..321520	-	377	71083030	ubiH	SAR11_0323	-	COG0654HC	ubiquinone biosynthesis monooxgenase COQ6
+321546..323636	+	696	71083031	ftsK	SAR11_0324	-	COG1674D	cell division protein
+323636..324190	+	184	71083032	-	SAR11_0325	-	COG2834M	Outer membrane lipoprotein carrier protein
+324191..324694	-	167	71083033	-	SAR11_0326	-	-	acetyltransferase
+324691..325056	-	121	71083034	-	SAR11_0327	-	COG0537FGR	histidine triad (HIT) protein
+325056..325361	-	101	71083035	hisE	SAR11_0328	-	COG0140E	phosphoribosyl-ATP diphosphatase
+325364..326119	-	251	71083036	hisF	SAR11_0329	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+326112..326831	-	239	71083037	hisA	SAR11_0330	-	COG0106E	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+326834..327460	-	208	71083038	hisH	SAR11_0331	-	COG0118E	imidazole glycerol phosphate synthase subunit of hisH
+327466..328056	-	196	71083039	hisB	SAR11_0332	-	COG0131E	imidazoleglycerol-phosphate dehydratase
+328148..328663	+	171	71083040	hslV	SAR11_0333	-	COG5405O	ATP-dependent protease peptidase subunit
+328663..330030	+	455	71083041	hslU	SAR11_0334	-	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+330020..330541	-	173	71083042	-	SAR11_0335	-	COG2840S	Smr (small MutS related) protein
+330542..331135	-	197	71083043	-	SAR11_0336	-	COG4395S	translocase
+331194..331616	+	140	71083044	fxsA	SAR11_0337	-	COG3030R	cytoplasmic membrane protein
+331600..332022	+	140	71083045	secB	SAR11_0338	-	COG1952U	protein export chaperone
+332015..332686	-	223	71083046	dnaQ	SAR11_0339	-	COG0847L	DNA polymerase III
+332688..333257	-	189	71083047	coaE	SAR11_0340	-	COG0237H	dephospho-CoA kinase
+333254..334051	-	265	71083048	aroE	SAR11_0341	-	COG0169E	shikimate 5-dehydrogenase
+334048..334635	-	195	71083049	orfE	SAR11_0342	-	COG0424D	Maf-like protein
+334628..335452	-	274	71083050	-	SAR11_0343	-	COG1806S	hypothetical protein
+335737..336738	+	333	304570543	hemE	SAR11_0344	-	COG0407H	uroporphyrinogen decarboxylase
+336739..337773	+	344	71083052	hemH	SAR11_0346	-	COG0276H	ferrochelatase
+337766..338200	+	144	71083053	-	SAR11_0347	-	COG1981S	cytochrome functioning/assembly related protein
+338267..339535	+	422	71083054	rho	SAR11_0348	-	COG1158K	transcription termination factor Rho
+339853..341526	+	557	71083055	-	SAR11_0349	-	COG3914O	O-linked N-acetylglucosamine transferase
+341586..342917	+	443	71083056	trmE	SAR11_0350	-	COG0486R	tRNA modification GTPase
+343083..344954	+	623	71083057	gidA	SAR11_0351	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+344954..345595	+	213	71083058	gidB	SAR11_0352	-	COG0357M	glucose inhibited division protein
+345604..346398	+	264	71083059	-	SAR11_0353	-	COG1192D	ParA family ATPase for plasmid partitioning and other plasmid related functions
+346398..347246	+	282	71083060	parB	SAR11_0354	-	COG1475K	chromosome partitioning protein
+347236..348231	-	331	71083061	holA	SAR11_0355	-	COG1466L	DNA-directed DNA polymerase III
+348228..348692	-	154	71083062	-	SAR11_0356	-	-	hypothetical protein
+348696..351230	-	844	71083063	leuS	SAR11_0357	-	COG0495J	leucyl-tRNA synthetase
+351261..351818	-	185	71083064	-	SAR11_0358	-	-	hypothetical protein
+352028..353017	+	329	71083065	-	SAR11_0359	-	-	porin
+353054..353596	-	180	71083066	-	SAR11_0360	-	COG0352H	thiamine monophosphate synthase
+353591..354241	+	216	71083067	yggS	SAR11_0361	-	COG0325R	hypothetical protein
+354238..354726	-	162	71083068	-	SAR11_0362	-	COG3786S	hypothetical protein
+354747..355328	+	193	71083069	-	SAR11_0363	-	COG0745TK	Bipartite response regulator
+355334..356263	-	309	71083070	frk	SAR11_0364	-	COG0524G	fructokinase
+356265..356918	-	217	71083071	nth	SAR11_0365	-	COG0177L	endonuclease III
+356918..357694	-	258	71083072	dapB	SAR11_0366	-	COG0289E	dihydrodipicolinate reductase
+357731..358861	-	376	71083073	-	SAR11_0367	-	COG0484O	chaperone protein
+358894..360837	-	647	71083074	dnaK	SAR11_0368	-	COG0443O	chaperone protein
+360900..361535	-	211	304570544	grpE	SAR11_0369	-	COG0576O	heat shock protein GrpE
+361572..362174	+	200	71083076	-	SAR11_0370	-	COG0127F	HAM1-like protein
+362158..363309	-	383	71083077	-	SAR11_0371	-	COG0683E	transmembrane receptor
+363342..364205	+	287	71083078	-	SAR11_0372	-	COG0313R	methylase or methyltransferase
+364195..364788	+	197	71083079	-	SAR11_0374	-	COG2823R	phospholipid-binding domain-containing protein
+364785..367073	-	762	162286707	maeB	SAR11_0375	-	COG0281C	malic enzyme
+367124..368650	+	508	71083081	mviN	SAR11_0376	-	COG0728R	virulence factor MVIN-like
+368652..369653	+	333	71083082	trpS	SAR11_0377	-	COG0180J	tryptophanyl-tRNA synthetase
+369707..370249	+	180	71083083	-	SAR11_0378	-	COG0694O	NifU-like domain-containing protein
+370252..371367	+	371	71083084	bax	SAR11_0379	-	COG2992R	Bax protein (hydrolyses peptidoglycan)
+371364..372284	-	306	71083085	cda1	SAR11_0380	-	COG0726G	polysaccharide deacetylase
+372370..372756	+	128	71083086	-	SAR11_0381	-	COG1214O	hypothetical protein
+372766..373176	+	136	71083087	fur	SAR11_0382	-	COG0735P	ferric uptake regulation protein
+373181..374521	+	446	71083088	miaB	SAR11_0383	-	COG0621J	tRNA-i(6)A37 modification enzyme
+374524..375525	+	333	71083089	phoH	SAR11_0384	-	COG1702T	PhoH-like protein
+375518..375979	+	153	71083090	-	SAR11_0385	-	COG0319R	hypothetical protein
+375981..377525	+	514	71083091	lnt	SAR11_0386	-	COG0815M	apolipoprotein N-acyltransferase
+377518..378687	+	389	71083092	metK	SAR11_0387	-	COG0192H	S-adenosylmethionine synthetase
+378786..380339	+	517	71083093	nusA	SAR11_0388	-	COG0195K	transcription termination factor
+380350..382554	+	734	71083094	infB	SAR11_0389	-	COG0532J	protein translation initiation factor 2
+382554..382922	+	122	71083095	rbfA	SAR11_0390	-	COG0858J	ribosome-binding factor A
+382936..383184	+	82	71083096	-	SAR11_0391	-	COG0184J	30S ribosomal protein S15
+383206..385278	+	690	71083097	pnp	SAR11_0392	-	COG1185J	polynucleotide phosphorylase
+385353..386048	+	231	71083098	-	SAR11_0393	-	-	SAM-dependent methyltransferase
+386111..386503	-	130	71083099	-	SAR11_0394	-	COG0662G	hypothetical protein
+386597..387373	-	258	71083100	fabI	SAR11_0395	-	COG0623I	enoyl-ACP reductase
+387383..388594	-	403	71083101	fabB	SAR11_0396	-	COG0304IQ	3-oxoacyl-ACP synthase
+388594..389094	-	166	71083102	fabA	SAR11_0397	-	COG0764I	3-hydroxydecanoyl-ACP dehydratase
+389168..389596	+	142	71083103	-	SAR11_0398	-	COG0735P	ferric uptake regulator family protein
+389701..390117	+	138	71083104	rbr	SAR11_0399	-	COG1592C	rubrerythrin
+390175..391506	+	443	71083105	glpC	SAR11_0400	-	COG0247C	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+391509..392102	+	197	71083106	-	SAR11_0401	-	-	hypothetical protein
+392095..392544	-	149	71083107	-	SAR11_0402	-	COG3807S	hypothetical protein
+392541..393296	-	251	71083108	moeB	SAR11_0403	-	COG0476H	molybdopterin biosynthesis protein
+393293..393730	-	145	304570545	dut	SAR11_0404	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+393737..394942	-	401	71083110	dfp	SAR11_0405	-	COG0452H	phosphopantothenoylcysteine decarboxylase
+394951..396519	-	522	304570546	aarF	SAR11_0406	-	COG0661R	ubiquinone biosynthesis protein
+396519..397223	-	234	71083112	ubiE	SAR11_0407	-	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase
+397259..398122	+	287	71083113	mutM	SAR11_0408	-	COG0266L	formamidopyrimidine-DNA glycosylase
+398173..398433	+	86	71083114	rpsT	SAR11_0409	-	COG0268J	30S ribosomal protein S20
+398915..400249	+	444	71083115	dnaA	SAR11_0410	-	COG0593L	chromosome replication initiator DnaA
+400239..401351	+	370	304570547	dnaN	SAR11_0411	-	COG0592L	DNA polymerase III
+401348..402049	-	233	71083117	plsC	SAR11_0412	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+402062..403276	-	404	71083118	lysA	SAR11_0413	-	COG0019E	diaminopimelate decarboxylase
+403276..403392	-	38	71083119	-	SAR11_0414	-	-	hypothetical protein
+403394..404782	-	462	71083120	argH	SAR11_0415	-	COG0165E	argininosuccinate lyase
+404807..405322	+	171	71083121	tlpA	SAR11_0416	-	COG0526OC	thiol:disulfide interchange protein
+405365..405535	+	56	71083122	-	SAR11_1725	-	-	hypothetical protein
+405618..406229	+	203	71083123	-	SAR11_0417	-	COG0400R	serine esterase
+406281..406847	+	188	71083124	mcrA	SAR11_0418	-	COG1403V	5-methylcytosine-specific restriction enzyme A
+406848..407381	-	177	71083125	coq7	SAR11_0419	-	COG2941H	Coq7 family protein
+407365..407865	-	166	71083126	dsbB	SAR11_0420	-	COG1495O	disulfide bond formation protein
+407852..408448	-	198	71083127	dedA	SAR11_0421	-	COG1238S	DedA family protein
+408798..410315	+	505	71083128	faa1	SAR11_0422	-	COG1022I	long-chain fatty acid CoA ligase (AMP-binding)
+410672..411571	-	299	71083129	carD	SAR11_0423	-	COG1329K	hypothetical protein
+411528..411854	-	108	71083130	fdxA	SAR11_0424	-	COG1142C	ferredoxin
+411851..412276	-	141	71083131	-	SAR11_0425	-	COG4103S	hypothetical protein
+412276..414756	-	826	71083132	suv3	SAR11_0426	-	COG4581L	ATP-dependent helicase
+414886..415407	-	173	71083133	-	SAR11_0427	-	COG2050Q	thioesterase
+415586..416773	+	395	71083134	thlA	SAR11_0428	-	COG0183I	Acetyl-CoA acetyltransferase
+416904..419942	+	1012	71083135	aceE	SAR11_0429	-	COG2609C	pyruvate dehydrogenase (lipoamide) e1 component
+419944..421215	+	423	71083136	aceF	SAR11_0430	-	COG0508C	dihydrolipoamide S-acetyltransferase
+421222..422109	+	295	71083137	ydeD	SAR11_0431	-	COG0697GER	transporter
+422106..422876	-	256	71083138	bacA	SAR11_0432	-	COG1968V	bacitracin resistance undecaprenol kinase
+423061..424500	+	479	71083139	gltD	SAR11_0433	-	COG0493ER	oxidoreductase
+424500..429005	+	1501	71083140	gltB	SAR11_0434	-	COG0069E	glutamate synthase large subunit
+429007..429882	+	291	71083141	-	SAR11_0435	-	COG0451MG	nucleoside-diphosphate-sugar epimerase
+429853..430506	-	217	71083142	-	SAR11_0436	-	COG0596R	alpha/beta hydrolase
+430651..431805	+	384	71083143	capM	SAR11_0437	-	COG0438M	glycosyl transferase family protein
+431806..433722	+	638	71083144	thrS	SAR11_0438	-	COG0441J	threonyl-tRNA synthetase
+433723..434268	+	181	71083145	infC	SAR11_0439	-	COG0290J	translation initiation factor IF-3
+434322..434528	+	68	71083146	rpmI	SAR11_0440	-	COG0291J	50S ribosomal protein L35
+434530..434886	+	118	71083147	rplT	SAR11_0441	-	COG0292J	50S ribosomal protein L20
+434930..435997	+	355	71083148	pheS	SAR11_0442	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+435994..438402	+	802	71083149	pheT	SAR11_0443	-	COG0072J	phenylalanine-tRNA ligase
+438405..440213	+	602	71083150	lepA	SAR11_0444	-	COG0481M	GTP-binding protein LepA
+440311..441081	-	256	71083151	-	SAR11_0445	-	-	methyltransferase FkbM
+441234..443291	+	685	71083152	gyrB	SAR11_0446	-	COG0187L	DNA topoisomerase subunit B
+443294..444574	+	426	71083153	regB	SAR11_0447	-	COG0642T	sensor histidine kinase
+444571..446379	-	602	71083154	cobT	SAR11_0448	-	COG4547H	cobalamin biosynthesis protein CobT
+446380..447354	-	324	71083155	cobS	SAR11_0449	-	COG0714R	cobalamin biosynthesis protein CobS
+447344..447871	-	175	71083156	-	SAR11_0450	-	COG0484O	molecular chaperone
+447870..448157	+	95	71083157	-	SAR11_0451	-	COG0271T	BolA-like protein
+448146..449252	-	368	71083158	aroB	SAR11_0452	-	COG0337E	3-dehydroquinate synthase
+449239..449751	-	170	71083159	aroK	SAR11_0453	-	COG0703E	shikimate kinase
+449810..449986	+	58	71083160	-	SAR11_0454	-	-	hypothetical protein
+450066..451721	+	551	71083161	-	SAR11_0455	-	-	hypothetical protein
+451748..452266	+	172	71083162	def	SAR11_0456	-	COG0242J	peptide deformylase
+452267..453199	+	310	71083163	fmt	SAR11_0457	-	COG0223J	methionyl-tRNA formyltransferase
+453192..453932	+	246	71083164	truA	SAR11_0458	-	COG0101J	tRNA pseudouridine synthase A
+453922..454401	-	159	71083165	set1	SAR11_0459	-	COG2940R	nuclear protein SET
+454433..455362	-	309	71083166	acuC	SAR11_0460	-	COG0123BQ	histone deacetylase family protein
+455363..455557	-	64	71083167	-	SAR11_0461	-	-	hypothetical protein
+455557..456711	-	384	71083168	dapE	SAR11_0462	-	COG0624E	succinyl-diaminopimelate desuccinylase
+456712..457539	-	275	71083169	dapD	SAR11_0463	-	COG2171E	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+457569..458240	-	223	71083170	-	SAR11_0464	-	COG1011R	HAD-superfamily hydrolase
+458237..459103	-	288	71083171	argB	SAR11_0465	-	COG0548E	acetylglutamate kinase
+459104..460780	-	558	71083172	yidC	SAR11_0466	-	COG0706U	inner membrane protein translocase component YidC
+460780..461031	-	83	71083173	-	SAR11_0467	-	COG0759S	hypothetical protein
+461031..461375	-	114	71083174	-	SAR11_0468	-	COG0594J	ribonuclease P protein
+461386..461550	-	54	304570564	-	SAR11_1500	-	-	hypothetical protein
+461643..462362	+	239	71083175	-	SAR11_0469	-	COG0398S	DedA family protein
+462540..462737	+	65	71083176	-	SAR11_0470	-	-	hypothetical protein
+462737..462838	+	33	71083177	-	SAR11_0471	-	-	hypothetical protein
+462838..463395	+	185	71083178	dcd	SAR11_0472	-	COG0717F	deoxycytidine triphosphate deaminase
+463398..464651	+	417	71083179	murA	SAR11_0473	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+464651..465046	+	131	71083180	-	SAR11_0474	-	-	hypothetical protein
+465046..466332	+	428	71083181	hisD	SAR11_0475	-	COG0141E	histidinol dehydrogenase
+466335..466550	+	71	71083182	infA	SAR11_0476	-	COG0361J	translation initiation factor IF-1
+466720..466932	+	70	71083183	cspE	SAR11_0477	-	COG1278K	cold shock protein
+467248..468645	+	465	71083184	hisS	SAR11_0478	-	COG0124J	histidyl-tRNA synthetase
+468623..469675	+	350	71083185	hisZ	SAR11_0479	-	COG3705E	ATP phosphoribosyltransferase
+469675..470364	+	229	71083186	hisG	SAR11_0480	-	COG0040E	ATP phosphoribosyltransferase
+470546..471643	+	365	71083187	rmuC	SAR11_0481	-	COG1322S	DNA recombination protein
+471726..472370	+	214	71083188	-	SAR11_0482	-	-	hypothetical protein
+472372..473799	+	475	71083189	sbcB	SAR11_0483	-	COG2925L	exodeoxyribonuclease I
+473875..474192	+	105	71083190	trxA	SAR11_0484	-	COG3118O	thioredoxin
+474189..475457	-	422	71083191	folC	SAR11_0485	-	COG0285H	bifunctional folylpolyglutamate synthase/dihydrofolate synthase FolC
+475411..476340	-	309	71083192	accD	SAR11_0486	-	COG0777I	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+476337..477134	-	265	71083193	trpA	SAR11_0487	-	COG0159E	tryptophan synthase subunit alpha
+477136..478368	-	410	71083194	trpB	SAR11_0488	-	COG0133E	tryptophan synthase subunit beta
+478358..478987	-	209	71083195	trpF	SAR11_0489	-	COG0135E	N-(5'-phosphoribosyl)anthranilate isomerase
+478984..479676	-	230	71083196	pyrF	SAR11_0490	-	COG0284F	orotidine 5'-phosphate decarboxylase
+479666..479956	-	96	71083197	himD	SAR11_0491	-	COG0776L	integration host factor beta-subunit (IHF-beta)
+479960..481690	-	576	71083198	rpsA	SAR11_0492	-	COG0539J	30S ribosomal protein S1
+481690..482343	-	217	71083199	cmk	SAR11_0493	-	COG0283F	cytidylate kinase
+482340..483668	-	442	304570548	aroA	SAR11_0494	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+483672..484448	-	258	71083201	yhbG	SAR11_0495	-	COG1137R	sulfate/thiosulfate import ATP-binding protein cysA
+484450..485034	-	194	71083202	-	SAR11_0496	-	COG1452M	hypothetical protein
+485035..486006	-	323	71083203	gutQ	SAR11_0497	-	COG0794M	arabinose 5-phosphate isomerase
+486007..486618	-	203	71083204	rnd	SAR11_0498	-	COG0349J	ribonuclease D
+486635..487603	+	322	71083205	-	SAR11_0499	-	COG0702MG	NADH-ubiquinone oxireductase
+487775..488275	-	166	71083206	-	SAR11_0500	-	COG5352	hypothetical protein
+488408..489211	+	267	71083207	-	SAR11_0501	-	COG1682GM	YadH-like ABC-2-type transport protein
+489215..490381	+	388	71083208	argD	SAR11_0502	-	COG4992E	acetylornithine aminotransferase
+490384..491313	+	309	71083209	argF	SAR11_0503	-	COG0078E	ornithine carbamoyltransferase
+491305..491844	-	179	71083210	cycM	SAR11_0504	-	COG3474C	cytochrome C
+491948..492688	+	246	71083211	kdsB	SAR11_0505	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+492690..493520	+	276	71083212	pheA	SAR11_0506	-	COG0077E	prephenate dehydratase
+493665..495338	+	557	71083213	dnaX	SAR11_0507	-	COG2812L	DNA-directed DNA polymerase subunit gamma/tau
+495342..495659	+	105	71083214	ybaB	SAR11_0508	-	COG0718S	hypothetical protein
+495664..496275	+	203	71083215	recR	SAR11_0509	-	COG0353L	recR-like protein
+496262..498457	-	731	71083216	glcB	SAR11_0510	-	COG2225C	malate synthase G
+498707..499813	+	368	71083217	accA	SAR11_0511	-	COG0825I	acetyl-CoA carboxylase
+499808..502372	-	854	71083218	secA	SAR11_0512	-	COG0653U	preprotein translocase subunit SecA
+502438..503739	+	433	304570549	argJ	SAR11_0513	-	COG1364E	ArgJ family protein
+503781..504212	+	143	71083220	-	SAR11_0514	-	COG5319S	hypothetical protein
+504209..504931	-	240	71083221	ubiG	SAR11_0515	-	COG2227H	3-demethylubiquinone-9 3-methyltransferase
+504997..506208	+	403	71083222	lysC	SAR11_0516	-	COG0527E	aspartate kinase
+506212..507312	+	366	71083223	ispG	SAR11_0517	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+507318..508391	+	357	71083224	prfA	SAR11_0518	-	COG0216J	protein release factor class I
+508393..509235	+	280	71083225	hemK	SAR11_0519	-	COG2890J	hypothetical protein
+509250..509726	+	158	71083226	-	SAR11_0520	-	-	hypothetical protein
+509729..511027	-	432	71083227	yebA	SAR11_0521	-	COG0739M	M23/M37 peptidase
+516442..516975	+	177	71083228	-	SAR11_0523	-	-	glucose-6-phosphate isomerase
+516956..517402	+	148	71083229	-	SAR11_0524	-	-	hypothetical protein
+517419..518273	+	284	71083230	-	SAR11_0525	-	COG0451MG	NAD-dependent epimerase/dehydratase
+518270..519133	-	287	71083231	-	SAR11_0526	-	COG1091M	NAD-dependent epimerase/dehydratase
+519133..520869	-	578	71083232	-	SAR11_0527	-	COG0028EH	acetolactate synthase II large chain
+520922..521581	+	219	71083233	smtA	SAR11_0528	-	COG2226H	protein-L-isoaspartate(D-aspartate) O-methyltransferase
+521587..522627	+	346	71083234	-	SAR11_0529	-	COG1062C	zinc-containing alcohol dehydrogenase
+522650..523831	+	393	71083235	-	SAR11_0530	-	-	cyclopropane-fatty-acyl-phospholipid synthase
+523831..524610	+	259	71083236	-	SAR11_0531	-	COG1028IQR	3-ketoacyl-ACP reductase
+524613..525977	-	454	71083237	-	SAR11_0532	-	COG0277C	FAD oxidase family protein
+526036..526809	-	257	71083238	-	SAR11_0533	-	COG2264J	methyltransferase
+526790..528139	+	449	71083239	-	SAR11_0534	-	COG0399M	aminotransferase
+528210..529664	-	484	71083240	-	SAR11_0535	-	-	deoxynucleotidase
+529658..530587	-	309	71083241	tktC	SAR11_0536	-	COG3958G	transketolase
+530587..531378	-	263	71083242	tktN	SAR11_0537	-	COG3959G	transketolase
+531418..532356	+	312	71083243	-	SAR11_0538	-	COG0451MG	UDP-glucose 4 epimerase
+532349..533857	+	502	71083244	rfaE	SAR11_0539	-	COG2870M	cytidylyltransferase/carbohydrate (or pyrimidine) kinase
+533858..534580	+	240	71083245	spsA	SAR11_0540	-	COG0463M	spsA-like glycosyl transferase
+534588..535577	+	329	71083246	rfbB	SAR11_0541	-	COG1088M	dtdpglucose 4,6-dehydratase
+535581..537269	-	562	71083247	-	SAR11_0542	-	-	hypothetical protein
+537246..537701	+	151	71083248	-	SAR11_0543	-	-	hypothetical protein
+537702..538163	+	153	71083249	-	SAR11_0544	-	-	hypothetical protein
+538166..538732	+	188	71083250	gmhA	SAR11_0545	-	COG0279G	phosphoheptose isomerase
+538725..539216	-	163	71083251	gmhB	SAR11_0546	-	COG0241E	D-glycero-D-manno-heptose 1,7 bisphophate phosphatase
+539250..540239	-	329	71083252	-	SAR11_0547	-	-	D amino acid oxidase (DAO) family protein
+540307..541656	-	449	71083253	-	SAR11_0548	-	-	hypothetical protein
+541643..542854	-	403	71083254	-	SAR11_0549	-	COG2244R	hypothetical protein
+543013..544125	-	370	71083255	rfaG	SAR11_0550	-	COG0438M	glycosyl transferase family protein
+544167..545240	-	357	71083256	-	SAR11_0551	-	COG4641S	glycosyl transferase family protein
+545259..546092	+	277	71083257	lgtF	SAR11_0552	-	COG0463M	spsA-like protein
+546079..547206	+	375	71083258	-	SAR11_0553	-	COG0399M	DegT/DnrJ/EryC1/StrS aminotransferase
+547210..548943	+	577	71083259	-	SAR11_0554	-	COG2192O	carbamoyltransferase
+548924..549535	+	203	71083260	-	SAR11_0555	-	COG2518O	CMAS family protein
+549536..550669	-	377	71083261	-	SAR11_0556	-	COG0438M	glycosyl transferase family protein
+550866..551843	+	325	71083262	-	SAR11_0557	-	COG0438M	glycosyl transferase family protein
+551827..552528	+	233	71083263	-	SAR11_0558	-	COG2230M	cyclopropane-fatty-acyl-phospholipid
+552525..553595	-	356	71083264	rfaK	SAR11_0559	-	COG0438M	1,2-N-acetylglucosaminetransferase
+553607..554311	+	234	71083265	-	SAR11_0560	-	-	PCMT - protein-L-isoaspartate(D-aspartate) O-methyltransferase
+554312..555052	+	246	71083266	-	SAR11_0561	-	COG0673R	oxidoreductase family protein
+555224..555991	-	255	71083267	wbyL	SAR11_0563	-	COG1216R	glycosyl transferase family protein
+555992..556138	-	48	71083268	-	SAR11_1726	-	COG1089M	hypothetical protein
+556146..556334	-	62	71083269	-	SAR11_0564	-	COG1089M	reductase
+556386..556751	+	121	71083270	-	SAR11_0565	-	-	hypothetical protein
+556732..558045	+	437	71083271	-	SAR11_0566	-	COG3307M	O-antigen polymerase
+558028..559029	-	333	71083272	-	SAR11_0567	-	COG0472M	hypothetical protein
+559159..560484	+	441	304570550	-	SAR11_0568	-	COG0665E	D-amino acid oxidoreductase family protein
+560488..561444	+	318	71083274	galE	SAR11_0569	-	COG1087M	UDP-glucose 4-epimerase
+561627..562670	+	347	71083275	gmd	SAR11_0570	-	COG1089M	gdpmannose 4,6-dehydratase
+562663..563601	+	312	71083276	wcaG	SAR11_0571	-	COG0451MG	GDP-fucose synthetase chain A
+563601..564479	+	292	71083277	rfaD	SAR11_0572	-	COG0451MG	ADP-L-glycero-D-manno-heptose-6-epimerase
+564660..564785	+	41	71083278	rpmJ	SAR11_0573	-	-	50S ribosomal protein L36
+564911..565999	+	362	71083279	pntA	SAR11_0574	-	COG3288C	alanine dehydrogenase
+566004..566312	+	102	71083280	pntAB	SAR11_0575	-	COG3288C	NAD(P) transhydrogenase subunit alpha
+566315..567709	+	464	71083281	pntB	SAR11_0576	-	COG1282C	NAD(P) transhydrogenase subunit beta
+567715..568413	+	232	71083282	tal	SAR11_0577	-	COG0176G	translaldolase
+568515..568709	-	64	71083283	rpsU	SAR11_0578	-	-	30S ribosomal protein S21
+568765..569352	-	195	304570551	-	SAR11_0579	-	COG3820S	hypothetical protein
+569353..569583	-	76	71083285	rpmE	SAR11_0580	-	COG0254J	50S ribosomal protein L31
+569619..570359	-	246	71083286	suhB	SAR11_0581	-	COG0483G	extragenic suppressor protein suhB
+570365..570925	-	186	71083287	efp	SAR11_0582	-	COG0231J	elongation factor P (EF-P)
+570922..571545	-	207	71083288	thiE	SAR11_0583	-	COG0352H	thiamine-phosphate pyrophosphorylase
+571532..572542	-	336	71083289	fbaB	SAR11_0584	-	COG3588G	fructose-bisphosphate aldolase
+572544..573722	-	392	71083290	pgk	SAR11_0585	-	COG0126G	phosphoglycerate kinase
+573722..574729	-	335	71083291	gap	SAR11_0586	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+574732..576690	-	652	71083292	tktB	SAR11_0587	-	COG0021G	transketolase
+576744..577067	+	107	71083293	yqgN	SAR11_0588	-	-	5-formyltetrahydrofolate cyclo-ligase
+577055..577501	+	148	71083294	-	SAR11_0589	-	COG3027S	hypothetical protein
+577506..578054	+	182	71083295	-	SAR11_0590	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+578051..578857	+	268	71083296	-	SAR11_0591	-	COG1692S	hypothetical protein
+578863..579588	+	241	71083297	-	SAR11_0592	-	COG0217S	hypothetical protein
+579588..580082	+	164	71083298	ruvC	SAR11_0593	-	-	crossover junction endodeoxyribonuclease
+580136..580810	+	224	71083299	tolQ	SAR11_0594	-	COG0811U	inner membrane protein TolQ
+580812..581228	+	138	71083300	tolR	SAR11_0595	-	COG0848U	tolR protein
+581234..582043	+	269	71083301	tolA	SAR11_0596	-	COG0810M	TolA protein
+582046..583386	+	446	71083302	tolB	SAR11_0597	-	COG0823U	translocation protein TolB
+583474..583953	+	159	71083303	ompA	SAR11_0598	-	COG2885M	OmpA family protein
+584040..585014	+	324	71083304	-	SAR11_0599	-	COG1729S	hypothetical protein
+584989..586029	+	346	304570552	mesJ	SAR11_0600	-	COG0037D	cell cycle protein mesj
+586081..587967	+	628	71083306	ftsH	SAR11_0601	-	COG0465O	metalloprotease FtsH
+587974..589026	+	350	71083307	folP	SAR11_0602	-	COG0294H	dihydropteroate synthase-like protein
+589026..590357	+	443	71083308	mrsA	SAR11_0603	-	COG1109G	phosphoglucomutase/phosphomannomutase family protein MrsA
+590359..591171	+	270	71083309	thiD	SAR11_0604	-	COG0351H	phosphomethylpyrimidine kinase
+591171..592463	+	430	71083310	adsS	SAR11_0605	-	COG0104F	adenylosuccinate synthetase
+592460..593341	-	293	71083311	rpoH	SAR11_0606	-	COG0568K	RNA polymerase factor sigma-32
+593396..594376	-	326	71083312	sfhB	SAR11_0607	-	COG0564J	pseudouridylate synthase
+594493..595425	-	310	71083313	-	SAR11_0608	-	COG0009J	Sua5/YciO/YrdC family protein
+595446..595691	+	81	71083314	-	SAR11_0609	-	-	exonuclease VII small subunit
+595681..596553	+	290	304570553	ispA	SAR11_0610	-	COG0142H	geranyltranstransferase
+596553..598466	+	637	71083316	dxs	SAR11_0611	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+598475..599557	-	360	71083317	aroC	SAR11_0612	-	COG0082E	chorismate synthase
+599591..600217	+	208	71083318	pdxH	SAR11_0613	-	COG0259H	pyridoxamine-phosphate oxidase
+600214..601227	-	337	71083319	ispB	SAR11_0614	-	COG0142H	octaprenyl-diphosphate synthase
+601340..602146	+	268	71083320	sohB	SAR11_0615	-	COG0616OU	S49 family peptidase
+602136..603020	+	294	71083321	glyQ	SAR11_0616	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+603020..605089	+	689	71083322	glyS	SAR11_0617	-	COG0751J	glycyl-tRNA synthetase subunit beta
+605086..607749	+	887	71083323	ppdk	SAR11_0618	-	COG0574G	pyruvate phosphate dikinase
+607746..608579	-	277	71083324	nadC	SAR11_0619	-	COG0157H	quinolinate phosphoribosyl transferase
+608585..609574	-	329	71083325	nadA	SAR11_0620	-	COG0379H	quinolinate synthetase
+609626..610513	-	295	71083326	-	SAR11_0621	-	COG0354R	GcvT-like aminomethyltransferase protein
+610557..611861	+	434	71083327	pyrC2	SAR11_0622	-	COG0044F	dihydroorotase
+611858..612190	-	110	71083328	qacE	SAR11_0623	-	COG2076P	small multidrug resistance protein
+612190..614085	-	631	71083329	prpE	SAR11_0624	-	COG0365I	hypothetical protein
+614302..615069	+	255	71083330	-	SAR11_0625	-	COG5524R	bacteriorhodopsin
+615153..615473	+	106	71083331	fdxB	SAR11_0626	-	COG0633C	ferredoxin
+615474..616490	+	338	71083332	trxB2	SAR11_0627	-	COG0492O	thioredoxin-disulfide reductase
+616487..617113	+	208	71083333	yfcG	SAR11_0628	-	COG0625O	glutathione S-transferase
+617122..617895	+	257	71083334	-	SAR11_0629	-	COG3217R	MOSC domain-containing protein
+617929..618471	-	180	304570554	dksA	SAR11_0630	-	COG1734T	DnaK suppressor protein
+618580..619872	+	430	71083337	-	SAR11_0632	-	COG1807M	hypothetical protein
+619869..620741	+	290	71083338	-	SAR11_0633	-	COG1216R	glycosyl transferase family protein
+620734..622014	-	426	71083339	umuC	SAR11_0634	-	COG0389L	hypothetical protein
+621992..622387	-	131	71083340	mucA	SAR11_0635	-	COG1974KT	hypothetical protein
+622553..623122	+	189	71083341	-	SAR11_0636	-	-	hypothetical protein
+623123..623485	+	120	71083342	-	SAR11_0637	-	COG3791S	hypothetical protein
+623595..624419	+	274	71083343	-	SAR11_0638	-	COG4240R	phosphoribulokinase/uridine kinase family protein
+624419..625717	+	432	71083344	tolC	SAR11_0640	-	COG1538MU	outer membrane protein TolC
+625822..626973	+	383	304570555	recA	SAR11_0641	-	COG0468L	recA protein
+627169..628284	-	371	71083346	-	SAR11_0642	-	COG0265O	serine protease
+628540..631209	+	889	71083347	alaS	SAR11_0643	-	COG0013J	alanyl-tRNA synthetase
+631202..632416	-	404	71083348	icdA	SAR11_0644	-	COG0538C	isocitrate dehydrogenase
+632494..633141	+	215	71083349	psd2	SAR11_0645	-	COG0688I	phosphatidylserine decarboxylase
+633145..633948	+	267	71083350	pssA	SAR11_0646	-	COG1183I	phosphatidylserine synthase
+633949..634860	+	303	71083351	-	SAR11_0647	-	COG1442M	glycosyl transferase family protein
+634861..635472	+	203	71083352	ftsJ	SAR11_0648	-	COG0293J	FtsJ-like methyltransferase
+635510..636586	+	358	71083353	guaB	SAR11_0649	-	COG0516F	IMP dehydrogenase
+636586..637023	+	145	71083354	-	SAR11_0650	-	-	hypothetical protein
+637013..638578	+	521	71083355	guaA	SAR11_0651	-	COG0519F	GMP synthase
+638605..639024	+	139	71083356	gloA	SAR11_0652	-	COG0346E	lactoylglutathione lyase
+639028..639801	+	257	71083357	panB	SAR11_0653	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+639803..640417	-	204	71083358	-	SAR11_0654	-	COG0861P	hypothetical protein
+640515..641771	-	418	71083359	braC	SAR11_0655	-	COG0683E	Leu/Ile/Val-binding protein
+641907..642746	+	279	71083360	braD	SAR11_0656	-	COG0559E	branched chain amino acid ABC transporter
+642749..643759	+	336	71083361	braE	SAR11_0657	-	COG4177E	branched chain amino acid ABC transporter
+643756..644478	+	240	71083362	-	SAR11_0658	-	COG0411E	LivG-like protein
+644468..645175	+	235	71083363	braG	SAR11_0659	-	COG0410E	high-affinity branched-chain amino acid transport ATP-binding protein
+645176..645961	-	261	71083364	-	SAR11_0660	-	COG4336S	hypothetical protein
+645966..646457	-	163	71083365	-	SAR11_0661	-	COG5010U	hypothetical protein
+646461..647258	-	265	71083366	ybgL	SAR11_0662	-	COG1540R	LamB/YcsF family protein
+647262..647948	+	228	71083367	kipI	SAR11_0663	-	COG2049E	allophanate hydrolase subunit 1
+647941..648894	+	317	71083368	ybgK	SAR11_0664	-	COG1984E	allophanate hydrolase subunit 2
+648881..649762	+	293	71083369	-	SAR11_0665	-	COG1030O	hypothetical protein
+649954..651060	+	368	71083370	gcvT	SAR11_0666	-	COG0404E	glycine cleavage system protein T2
+651057..651437	+	126	71083371	gcvH	SAR11_0667	-	COG0509E	glycine cleavage H-protein
+651438..654296	+	952	71083372	gcvP	SAR11_0668	-	COG1003E	glycine dehydrogenase
+654309..655553	+	414	71083373	-	SAR11_0669	-	COG2907R	flavin containing amine oxidoreductas
+655546..656313	+	255	71083374	-	SAR11_0670	-	COG3496S	hypothetical protein
+656313..657491	+	392	71083375	-	SAR11_0672	-	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+657505..658053	+	182	71083376	-	SAR11_0673	-	-	hypothetical protein
+658050..658811	-	253	71083377	-	SAR11_0674	-	COG0300R	short chain dehydrogenase
+658833..659300	+	155	71083378	tspo	SAR11_0675	-	COG3476T	TspO/MBR family protein
+659309..660412	+	367	71083379	-	SAR11_0676	-	COG0665E	hypothetical protein
+660441..660977	+	178	71083380	-	SAR11_0677	-	COG4627S	hypothetical protein
+660987..662438	-	483	71083381	-	SAR11_0678	-	COG0397S	hypothetical protein
+662447..665215	-	922	71083382	fdhF	SAR11_0679	-	COG3383R	formate dehydrogenase subunit alpha (fdhF-2)
+665215..666873	-	552	304570556	fdsB	SAR11_0680	-	COG1894C	NAD-dependent formate dehydrogenase subunit beta
+666877..667719	-	280	71083384	fdhD	SAR11_0681	-	COG1526C	formate dehydrogenase subunit D
+667724..668200	-	158	71083385	-	SAR11_0682	-	COG3448T	HPP family protein
+668203..668601	-	132	71083386	-	SAR11_0683	-	COG0822C	NifU-like domain-containing protein
+668645..669265	+	206	71083387	mobA	SAR11_0684	-	COG0746H	hypothetical protein
+669258..670505	+	415	71083388	moeA	SAR11_0685	-	COG0303H	molybdopterin biosynthesis protein moeA
+670773..671459	+	228	71083389	-	SAR11_0686	-	COG2962R	hypothetical protein
+671465..672682	+	405	71083390	pepQ	SAR11_0687	-	COG0006E	creatinase
+672686..673798	+	370	71083391	gatM	SAR11_0688	-	COG1834E	glycine amidinotransferase
+673801..674853	+	350	71083392	-	SAR11_0689	-	COG2008E	threonine aldolase
+674846..675040	-	64	71083393	-	SAR11_0690	-	-	hypothetical protein
+675167..676099	-	310	71083394	-	SAR11_0691	-	-	hypothetical protein
+676379..676864	-	161	71083395	yajQ	SAR11_0692	-	COG1666S	nucleotide-binding protein
+676886..677161	+	91	71083396	slyX	SAR11_0693	-	COG4942D	SlyX family protein
+677178..678359	+	393	71083397	-	SAR11_0694	-	COG2081R	hypothetical protein
+678384..679706	-	440	71083398	ycaD	SAR11_0695	-	COG2814G	transporter
+679765..680625	-	286	71083399	salY	SAR11_0696	-	COG5006R	hypothetical protein
+680622..681551	-	309	71083400	gshB	SAR11_0697	-	COG0189HJ	glutathione synthase
+681541..682836	-	431	71083401	gsh1	SAR11_0698	-	COG3572H	glutamate--cysteine ligase
+682918..684399	-	493	71083402	purF	SAR11_0699	-	COG0034F	amidophosphoribosyltransferase
+684353..684898	-	181	71083403	cvpA	SAR11_0700	-	COG1286R	colicin V production protein
+684906..687290	-	794	71083404	acrB	SAR11_0701	-	COG1033R	hypothetical protein
+687312..688730	-	472	71083405	dnaB	SAR11_0702	-	COG0305L	replicative DNA helicase (dnaB)
+688798..689256	-	152	71083406	csn1	SAR11_0703	-	COG0359J	50S ribosomal protein L9
+689257..689535	-	92	71083407	rpsR	SAR11_0704	-	COG0238J	30S ribosomal protein S18
+689538..689903	-	121	71083408	rpsF	SAR11_0705	-	COG0360J	30S ribosomal protein S6
+689990..690922	+	310	71083409	fabD	SAR11_0706	-	COG0331I	ACP S-malonyltransferase
+690915..691652	+	245	71083410	fabG	SAR11_0707	-	COG1028IQR	3-oxoacyl-ACP reductase
+691701..691940	+	79	71083411	acpP	SAR11_0708	-	COG0236IQ	acyl carrier protein
+691948..692580	+	210	71083412	gmk	SAR11_0709	-	COG0194F	guanylate kinase
+692569..693357	-	262	71083413	ksgA	SAR11_0710	-	COG0030J	dimethyladenosine transferase
+693358..694320	-	320	71083414	pdxA	SAR11_0711	-	COG1995H	4-hydroxythreonine-4-phosphate dehydrogenase
+694313..695230	-	305	71083415	-	SAR11_0712	-	COG0760O	SurA-like protein
+695237..697681	-	814	71083416	ostA	SAR11_0713	-	COG1452M	organic solvent tolerance-like protein
+697671..698744	-	357	71083417	-	SAR11_0714	-	COG0795R	YjgP/YjgQ family permease
+698741..699877	-	378	71083418	-	SAR11_0715	-	COG0795R	YjgP/YjgQ family permease
+699939..701396	+	485	71083419	pepA	SAR11_0716	-	COG0260E	leucyl aminopeptidase
+701389..701799	+	136	71083420	ndk	SAR11_0717	-	COG0105F	nucleoside diphosphate kinase
+701796..702374	-	192	71083421	purN	SAR11_0718	-	COG0299F	phosphoribosylglycinamide formyltransferase
+702352..703380	-	342	71083422	purM	SAR11_0719	-	COG0150F	phosphoribosylformylglycinamidine cyclo-ligase
+703392..704471	+	359	304570557	-	SAR11_0720	-	-	hypothetical protein
+704468..705130	+	220	71083424	-	SAR11_0721	-	COG0593L	DNA replication initiation ATPase
+705131..706915	+	594	71083425	aspS	SAR11_0722	-	COG0173J	aspartyl-tRNA synthetase
+706918..707739	-	273	71083426	nrdE	SAR11_0723	-	-	ribonucleotide reductase subunit alpha
+707855..708214	+	119	71083427	-	SAR11_0724	-	COG3761C	NADH-ubiquinone oxidoreductase 17.2 kD subunit of complex I
+708174..708581	+	135	71083428	-	SAR11_0725	-	COG4765S	hypothetical protein
+708578..709915	-	445	71083429	-	SAR11_0726	-	COG4770I	biotin carboxylase
+709915..710340	-	141	71083430	accB	SAR11_0727	-	COG0511I	acetyl-CoA carboxylase biotin carboxyl carrier protein
+710327..710776	-	149	71083431	aroQ	SAR11_0728	-	COG0757E	3-dehydroquinate dehydratase
+710793..711011	+	72	71083432	-	SAR11_0729	-	COG2104H	thiamine biosynthesis protein ThiS
+711014..711787	+	257	71083433	thiG	SAR11_0730	-	COG2022H	thiazole synthase
+711784..713643	-	619	71083434	rne	SAR11_0731	-	COG1530J	ribonuclease E/G
+713746..716079	+	777	71083435	mrcA	SAR11_0732	-	COG5009M	penicillin-binding protein 1A
+716320..717174	+	284	71083436	prfB	SAR11_0733	-	COG1186J	peptide chain release factor 2
+717174..719366	+	730	71083437	-	SAR11_0734	-	-	hypothetical protein
+719363..720592	-	409	71083438	tyrS	SAR11_0735	-	COG0162J	tyrosyl-tRNA synthetase
+720637..721764	+	375	71083439	anmK	SAR11_0736	-	COG2377O	anhydro-N-acetylmuramic acid kinase
+721767..722423	-	218	71083440	-	SAR11_0737	-	COG2945R	alpha/beta hydrolase
+722560..722985	+	141	71083441	sufA	SAR11_0738	-	COG1959K	transcriptional regulator
+722987..724429	+	480	71083442	sufB	SAR11_0739	-	COG0719O	cysteine desulfurase
+724429..725163	+	244	71083443	sufC	SAR11_0740	-	COG0396O	FeS assembly ATPase SufC
+725164..726408	+	414	71083444	sufD	SAR11_0741	-	COG0719O	FeS assembly protein sufD
+726405..727622	+	405	71083445	csdB	SAR11_0742	-	COG0520E	selenocysteine lyase chain A
+727622..728092	+	156	71083446	sufE	SAR11_0743	-	COG0822C	nifU-like protein
+728096..728392	+	98	71083447	paaD	SAR11_0744	-	COG2151R	phenylacetic acid degradation protein
+728392..728724	+	110	71083448	hesB	SAR11_0745	-	COG0316S	hesB protein
+728783..728953	+	56	71083449	-	SAR11_0746	-	-	hypothetical protein
+728960..730366	-	468	71083450	glnA	SAR11_0747	-	COG0174E	glutamine synthetase
+730513..730992	+	159	71083451	-	SAR11_0748	-	COG2606S	prolyl-tRNA synthetase
+730989..731876	+	295	71083452	-	SAR11_0749	-	COG0697GER	ABC transporter
+731869..732777	-	302	71083453	mmuM	SAR11_0750	-	COG2040E	homocysteine S-methyltransferase
+732939..733529	-	196	71083454	-	SAR11_0751	-	-	hypothetical protein
+733559..734305	-	248	71083455	-	SAR11_0752	-	COG1480R	transmembrane protein
+734324..734824	+	166	71083456	moaB	SAR11_0754	-	COG0521H	molybdopterin biosynthesis protein
+734825..735070	-	81	71083457	-	SAR11_0755	-	COG3492S	hypothetical protein
+735368..736918	+	516	71083458	aldA	SAR11_0756	-	COG1012C	acetaldehyde dehydrogenase II
+736964..737311	+	115	71083459	-	SAR11_0757	-	COG3564S	hypothetical protein
+737308..737877	-	189	71083460	yedZ	SAR11_0758	-	COG2717S	hypothetical protein
+737902..738807	-	301	71083461	yedY	SAR11_0759	-	COG2041R	sulfite oxidase subunit YedY
+738804..739247	-	147	71083462	moaE	SAR11_0760	-	COG0314H	molybdopterin biosynthesis protein subunit E
+739247..739516	-	89	71083463	moaD	SAR11_0761	-	-	molybdopterin biosynthesis protein moaD
+739519..740064	-	181	71083464	moaC	SAR11_0762	-	COG0315H	molybdopterin cofactor synthesis protein
+740065..741057	-	330	71083465	moaA	SAR11_0763	-	COG2896H	molybdenum cofactor biosynthesis protein A
+741093..741926	+	277	71083466	-	SAR11_0764	-	COG5285Q	deoxygenase
+741963..742289	-	108	71083467	-	SAR11_0765	-	COG4274S	hypothetical protein
+742383..743825	+	480	71083468	gabD	SAR11_0766	-	COG1012C	succinate-semialdehyde dehydrogenase (NAD(P))
+743871..744617	+	248	71083469	-	SAR11_0767	-	COG1028IQR	short chain dehydrogenase
+744621..745523	+	300	71083470	yajF	SAR11_0768	-	COG1940KG	NAGC-like transcription regulator
+745724..746983	+	419	71083471	-	SAR11_0769	-	COG1653G	sugar ABC transporter substrate-binding protein
+747047..747919	+	290	71083472	-	SAR11_0770	-	COG1175G	ABC-type sugar transport system
+747909..748811	+	300	71083473	-	SAR11_0771	-	COG0395G	ABC-type sugar transport system
+748813..749913	+	366	71083474	malK	SAR11_0772	-	COG3839G	sugar ABC transporter
+749914..750675	+	253	71083475	-	SAR11_0773	-	COG1028IQR	short chain dehydrogenase
+750690..752465	+	591	71083476	edd	SAR11_0774	-	COG0129EG	dihydroxy-acid dehydratase
+752477..753220	+	247	71083477	ucpA	SAR11_0775	-	COG1028IQR	oxidoreductase
+753242..754084	+	280	71083478	hpcE	SAR11_0776	-	COG0179Q	2-hydroxyhepta-2,4-diene-1,7-dioate isomerase
+754086..754967	+	293	71083479	gnl	SAR11_0777	-	COG3386G	gluconolactonase
+755023..755892	+	289	71083480	gnd	SAR11_0778	-	COG2084I	6-phosphogluconate dehydrogenase
+755889..756734	+	281	71083481	hpaG	SAR11_0779	-	COG0179Q	fumarylacetoacetate hydrolase family protein
+756745..759432	+	895	71083482	ppc	SAR11_0780	-	COG2352C	phosphoenolpyruvate carboxylase
+759434..760141	+	235	71083483	ccdA	SAR11_0781	-	COG0785O	holocytochrome-c synthase ccdA
+760165..760746	+	193	71083484	azoR	SAR11_0782	-	COG1182I	ACP phosphodiesterase
+760746..761552	+	268	71083485	-	SAR11_0783	-	COG0483G	inositol monophosphatase
+761553..762113	+	186	71083486	-	SAR11_0784	-	COG3803S	hypothetical protein
+762333..762677	+	114	71083487	-	SAR11_0785	-	COG3502S	hypothetical protein
+763013..763345	-	110	71083488	qacH	SAR11_0786	-	COG2076P	multidrug resistance protein
+763345..763680	-	111	71083489	qacH2	SAR11_0787	-	COG2076P	quaternary ammonium compound-resistance protein qacH
+763730..763939	-	69	71083490	-	SAR11_0788	-	-	transmembrane protein
+763955..764959	-	334	71083491	cysK	SAR11_0789	-	COG0031E	cysteine synthase A
+764959..765537	-	192	71083492	cysE	SAR11_0790	-	COG1045E	serine O-acetyltransferase
+765612..766022	+	136	71083493	-	SAR11_0791	-	COG3565R	ring-cleaving dioxygenase
+766031..766501	+	156	71083494	-	SAR11_0792	-	-	hypothetical protein
+766600..767475	+	291	71083495	-	SAR11_0793	-	-	hypothetical protein
+767480..768199	+	239	304570558	-	SAR11_0794	-	-	hypothetical protein
+768206..769159	+	317	71083497	-	SAR11_0795	-	-	hypothetical protein
+769202..770683	+	493	71083498	aldH	SAR11_0796	-	COG1012C	aldehyde dehydrogenase
+770785..771747	+	320	71083499	proX	SAR11_0797	-	COG2113E	hypothetical protein
+771830..772879	+	349	71083500	proV	SAR11_0798	-	COG4175E	glycine betaine/L-proline transport ATP-binding protein
+772872..774377	+	501	71083501	proW	SAR11_0799	-	COG4176E	glycine betaine/L-proline transport system permease protein
+774387..774992	+	201	71083502	yggA	SAR11_0800	-	COG1279R	lysine efflux pump
+774994..776280	-	428	71083503	hisD	SAR11_0801	-	COG0141E	histidinol dehydrogenase
+776343..777149	-	268	71083504	pta	SAR11_0802	-	COG0280C	phosphate acetyltransferase (phosphotransacetylase)
+777304..778446	+	380	71083505	ephX1	SAR11_0803	-	COG0596R	epoxide hydrolase
+778447..779457	-	336	71083506	comC	SAR11_0804	-	COG2055C	malate/L-sulfolactate dehydrogenase multifunction enzyme
+779476..781389	-	637	71083507	tauC	SAR11_0805	-	COG0600P	taurine uptake ABC transporter permease protein
+781391..782188	-	265	71083508	tauB	SAR11_0806	-	COG1116P	taurin uptake ABC transporter ATP-binding protein
+782276..783217	-	313	71083509	tauA	SAR11_0807	-	COG0715P	taurine transport system periplasmic protein
+783435..784781	+	448	71083510	bioA	SAR11_0808	-	COG0161H	beta alanine--pyruvate transaminase
+784825..785937	+	370	71083511	ald	SAR11_0809	-	COG0686E	alanine dehydrogenase
+785951..786466	+	171	71083512	-	SAR11_0810	-	-	hypothetical protein
+786575..788023	+	482	71083513	-	SAR11_0811	-	COG0591ER	sodium/solute transporter family
+788073..789008	+	311	71083514	yadG	SAR11_0812	-	COG1131V	ABC transporter ATP-binding protein
+788998..789765	+	255	71083515	yadH	SAR11_0813	-	COG1682GM	permease
+789794..790177	-	127	71083516	cynT	SAR11_0815	-	COG0288P	carbonic anhydrase
+790317..791450	+	377	71083517	-	SAR11_0816	-	COG0750M	zinc metalloprotease
+791591..791866	+	91	71083518	hupA	SAR11_0817	-	COG0776L	non-specific DNA-binding protein HBsu
+792013..793314	+	433	71083519	amtB	SAR11_0818	-	COG0004P	ammonium transporter
+793367..793834	-	155	71083520	bcp	SAR11_0819	-	COG1225O	bacterioferritin comigratory protein
+793837..794856	-	339	71083521	wbbA	SAR11_0820	-	-	rhamnosyltransferase
+794910..795293	+	127	71083522	-	SAR11_0821	-	COG0607P	sulfide dehydrogenase
+795290..795874	-	194	71083523	dsbA	SAR11_0822	-	COG3917Q	2-hydroxychromene-2-carboxylate isomerase
+795867..796340	-	157	71083524	-	SAR11_0823	-	-	hypothetical protein
+796378..796932	+	184	71083525	recX	SAR11_0824	-	COG2137R	regulatory protein
+796924..797070	-	48	71083526	-	SAR11_0825	-	-	transmembrane protein
+797070..797840	-	256	71083527	cysQ	SAR11_0826	-	COG1218P	cysQ protein
+797837..798043	-	68	71083528	-	SAR11_0827	-	-	hypothetical protein
+798049..799164	+	371	71083529	trmU	SAR11_0828	-	COG0482J	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+799350..800525	+	391	304570559	metC	SAR11_0829	-	COG0626E	cystathionine beta-lyase
+800522..801742	+	406	71083531	-	SAR11_0830	-	COG2807P	major facilitator transporter
+801746..802909	+	387	71083532	pabB	SAR11_0831	-	COG0147EH	para-aminobenzoate synthase component I
+802906..803463	+	185	71083533	trpG	SAR11_0832	-	COG0512EH	anthranilate synthase component II (glutamine amido-transferase)
+803522..804196	+	224	71083534	-	SAR11_0833	-	COG0115EH	aminotransferase
+804165..804599	+	144	71083535	apaG	SAR11_0834	-	COG0537FGR	diadenosine tetraphosphate hydrolase
+804704..805498	+	264	71083536	aprM	SAR11_0835	-	-	adenylylsulfate reductase membrane anchor
+805519..805989	+	156	71083537	aprB	SAR11_0836	-	COG1146C	adenylyl-sulfate reductase chain B
+805989..807848	+	619	71083538	aprA	SAR11_0837	-	COG1053C	adenylylsulfate reductase subunit alpha
+807867..808217	+	116	71083539	-	SAR11_0838	-	-	hypothetical protein
+808285..808419	+	44	71083540	-	SAR11_0839	-	-	transmembrane protein
+808448..809530	+	360	71083541	-	SAR11_0840	-	COG0730R	transmembrane permease
+809527..810600	-	357	71083542	yeiH	SAR11_0841	-	COG2855S	hypothetical protein
+810619..811785	-	388	71083543	garD	SAR11_0842	-	COG2721G	galactarate dehydratase
+811791..812075	-	94	71083544	-	SAR11_0843	-	COG2721G	D-galactarate dehydratase/Altronate
+812187..813971	+	594	71083545	-	SAR11_0844	-	COG0028EH	sulfoacetaldehyde acetyltransferase
+814011..815612	+	533	71083546	smo	SAR11_0845	-	COG2072P	steroid monooxygenase
+815628..816377	+	249	71083547	-	SAR11_0846	-	COG1028IQR	short chain dehydrogenase
+816382..817686	+	434	71083548	-	SAR11_0847	-	COG0665E	glycine/D-amino acid oxidase
+817687..820215	-	842	71083549	-	SAR11_0848	-	COG3127Q	ABC transporter
+820208..820873	-	221	71083550	-	SAR11_0850	-	COG1136V	ABC transporter ATP-binding protein
+820872..821486	+	204	71083551	-	SAR11_0851	-	COG2755E	arylesterase
+821501..822793	+	430	71083552	-	SAR11_0852	-	COG4091E	homoserine dehydrogenase
+822790..823941	-	383	71083553	-	SAR11_0853	-	COG0006E	X-Pro dipeptidase
+824061..824837	-	258	71083554	-	SAR11_0854	-	COG3971Q	fumarylacetoacetate (FAA) hydrolase family protein
+824837..825637	-	266	71083555	-	SAR11_0855	-	COG0739M	peptidase
+825622..826380	-	252	71083556	-	SAR11_0856	-	COG1028IQR	short chain dehydrogenase
+826381..826971	-	196	71083557	-	SAR11_0857	-	COG0861P	TerC family integral membrane protein
+826971..828566	-	531	71083558	betA	SAR11_0858	-	COG2303E	alcohol dehydrogenase
+828655..829401	+	248	71083559	fbp	SAR11_0859	-	COG0545O	peptidyl-prolyl isomerase
+829409..829825	-	138	71083560	-	SAR11_0860	-	COG1733K	transcriptional regulator
+829950..830726	+	258	71083561	-	SAR11_0861	-	COG1028IQR	short chain dehydrogenase
+830726..832246	+	506	71083562	-	SAR11_0862	-	COG1012C	aldehyde dehydrogenase
+832239..833165	+	308	71083563	-	SAR11_0863	-	COG2084I	MmsB-like protein
+833343..834434	+	363	71083564	-	SAR11_0864	-	COG4663Q	hypothetical protein
+834523..835182	+	219	304570560	-	SAR11_0865	-	COG4665Q	TRAP-type mannitol/chloroaromatic compound transport system
+835182..836507	+	441	71083566	-	SAR11_0866	-	COG4664Q	mannitol transporter
+836512..837366	-	284	71083567	yyaM	SAR11_0867	-	-	transporter
+837474..838931	+	485	71083568	pucI	SAR11_0868	-	COG1953FH	permease for cytosine/purines
+838936..839682	+	248	71083569	-	SAR11_0869	-	COG1028IQR	short chain dehydrogenase
+839935..840525	+	196	71083570	-	SAR11_0870	-	-	hypothetical protein
+840528..840665	-	45	71083571	-	SAR11_0871	-	-	transmembrane protein
+840723..841148	+	141	71083572	ybgC	SAR11_0872	-	COG0824R	4-hydroxybenzoyl-CoA thioesterase
+841141..841815	-	224	71083573	ung	SAR11_0873	-	COG1573L	uracil-DNA glycosylase
+841818..842369	+	183	71083574	-	SAR11_0874	-	COG2062T	phosphoglycerate mutase family protein
+842388..842525	+	45	71083575	-	SAR11_0875	-	-	hypothetical protein
+842603..842779	-	58	71083576	-	SAR11_0876	-	-	transmembrane protein
+842772..843023	-	83	71083577	-	SAR11_0877	-	COG3313R	hypothetical protein
+843226..844659	+	477	71083578	tig	SAR11_0879	-	COG0544O	trigger factor
+844691..845302	+	203	71083579	clpP	SAR11_0880	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+845394..846662	+	422	71083580	clpX	SAR11_0881	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+846722..849106	+	794	71083581	lon	SAR11_0882	-	COG0466O	ATP-dependent protease La
+849410..849778	+	122	71083582	nuoA	SAR11_0883	-	COG0838C	NADH dehydrogenase I subunit A
+849790..850311	+	173	71083583	nuoB	SAR11_0884	-	COG0377C	NADH dehydrogenase subunit B
+850317..850925	+	202	71083584	nuoC	SAR11_0885	-	COG0852C	NADH dehydrogenase I subunit C
+850909..852084	+	391	71083585	nuoD	SAR11_0886	-	COG0649C	NADH dehydrogenase subunit D
+852084..852692	+	202	71083586	nuoE	SAR11_0887	-	COG1905C	NADH dehydrogenase I subunit E
+852685..854016	+	443	71083587	nuoF	SAR11_0888	-	COG1894C	NADH dehydrogenase I subunit F
+854009..856048	+	679	71083588	nuoG	SAR11_0889	-	COG1034C	NADH dehydrogenase subunit G
+856052..857050	+	332	71083589	nuoH	SAR11_0890	-	COG1005C	NADH dehydrogenase I subunit H
+857053..857538	+	161	71083590	nuoI	SAR11_0891	-	COG1143C	NADH dehydrogenase subunit I
+857541..858173	+	210	71083591	nuoJ	SAR11_0892	-	COG0839C	NADH dehydrogenase I subunit J
+858166..858477	+	103	71083592	nuoK	SAR11_0893	-	COG0713C	NADH dehydrogenase I subunit K
+858479..860392	+	637	71083593	nuoL	SAR11_0894	-	COG1009CP	NADH dehydrogenase I subunit L
+860392..861885	+	497	71083594	nuoM	SAR11_0896	-	COG1008C	NADH dehydrogenase subunit M
+861885..863300	+	471	71083595	nuoN	SAR11_0897	-	COG1007C	NADH dehydrogenase subunit N
+863300..863863	+	187	71083596	birA	SAR11_0898	-	COG0340H	biotin-protein ligase
+863860..864606	+	248	71083597	yacB	SAR11_0899	-	COG1521K	Bvg accessory factor
+864609..866264	+	551	71083598	-	SAR11_0900	-	COG0595R	metallo-beta-lactamase family protein
+866265..866510	+	81	71083599	-	SAR11_0901	-	COG5454	hypothetical protein
+866512..867846	+	444	71083600	proS	SAR11_0902	-	COG0442J	prolyl-tRNA synthetase
+867843..869075	+	410	71083601	ycfU	SAR11_0903	-	COG4591M	ABC transporter
+869068..869754	+	228	71083602	ycfV	SAR11_0905	-	COG1136V	ABC transporter ATP-binding protein
+869738..873154	+	1138	71083603	dnaE	SAR11_0906	-	COG0587L	DNA polymerase III subunit alpha
+873284..874105	+	273	71083604	rpsB	SAR11_0907	-	COG0052J	30S ribosomal protein S2
+874107..874958	+	283	71083605	tsf	SAR11_0908	-	COG0264J	protein translation elongation factor Ts (EF-Ts)
+874959..875510	+	183	71083606	rrf	SAR11_0909	-	COG0233J	ribosome recycling factor
+875507..876184	+	225	71083607	-	SAR11_0910	-	COG0020I	UDP diphosphate synthase
+876184..876846	+	220	71083608	cdsA	SAR11_0911	-	COG4589R	phosphatidate cytidylyltransferase
+876848..878014	+	388	71083609	yaeM	SAR11_0912	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+878022..880259	+	745	71083610	omp1	SAR11_0913	-	COG4775M	hypothetical protein
+880259..880783	+	174	71083611	ompH	SAR11_0914	-	COG2825M	hypothetical protein
+880790..881230	+	146	71083612	fabZ	SAR11_0915	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+881283..882263	+	326	71083613	lpxD	SAR11_0916	-	COG1044M	glucosamine N-acyltransferase
+882260..883042	+	260	71083614	lpxA	SAR11_0917	-	COG1043M	acyl-ACP-UDP-N- acetylglucosamine O-acyltransferase
+883044..883829	+	261	71083615	-	SAR11_0918	-	COG3494S	hypothetical protein
+883826..884962	+	378	71083616	lpxB	SAR11_0919	-	COG0763M	lipid-A-disaccharide synthase
+884939..886339	-	466	71083617	gltX	SAR11_0920	-	COG0008J	glutamyl-tRNA synthetase
+886362..887039	-	225	71083618	lexA	SAR11_0921	-	COG1974KT	LexA repressor
+887128..887919	-	263	71083619	trpC	SAR11_0922	-	COG0134E	indole-3-glycerol phosphate synthase
+887912..888904	-	330	71083620	trpD	SAR11_0923	-	COG0547E	anthranilate phosphoribosyltransferase
+888901..889476	-	191	71083621	trpGD	SAR11_0924	-	COG0512EH	anthranilate synthase component II
+889476..890930	-	484	71083622	trpE	SAR11_0925	-	COG0147EH	anthranilate synthase component I-like protein
+890930..892351	-	473	71083623	-	SAR11_0926	-	-	SurA-like protein
+892423..893148	+	241	71083624	tpiA	SAR11_0927	-	COG0149G	triosephosphate isomerase
+893154..893453	+	99	71083625	secG	SAR11_0928	-	COG1314U	preprotein translocase subunit SecG
+893557..895455	+	632	71083626	-	SAR11_0929	-	COG1538MU	hypothetical protein
+895457..895702	-	81	71083627	-	SAR11_0930	-	-	transmembrane protein
+895470..895697	+	75	71084063	-	SAR11_0931	-	-	transmembrane protein
+895754..917707	+	7317	71083628	-	SAR11_0932	-	-	hypothetical protein
+917722..918435	+	237	71083629	acrA	SAR11_0933	-	COG0845M	AcrA-like protein
+918432..919766	+	444	71083630	-	SAR11_0934	-	COG0845M	AcrB-like protein
+919763..921865	+	700	71083631	-	SAR11_0935	-	COG0845M	peptidase M50
+921991..922563	+	190	71083632	-	SAR11_0936	-	-	fimbrial protein pilin
+922651..924267	+	538	71083633	pyrG	SAR11_0937	-	COG0504F	CTP synthetase
+924264..925088	+	274	71083634	kdsA	SAR11_0938	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+925089..926345	+	418	71083635	eno	SAR11_0939	-	COG0148G	enolase
+926345..926647	+	100	71083636	divIC	SAR11_0940	-	-	septum formation initiator
+926637..927563	+	308	71083637	lipA	SAR11_0941	-	COG0320H	lipoyl synthase
+927563..928000	+	145	71083638	-	SAR11_0942	-	COG2867I	hypothetical protein
+928018..928509	-	163	71083639	cinA	SAR11_0943	-	COG1546R	competence/damage-inducible protein CinA
+928476..928979	-	167	71083640	pgpA	SAR11_0944	-	COG1267I	phosphatidylglycerophosphatase A
+928972..930087	-	371	71083641	ispD	SAR11_0945	-	COG0245I	IspD/ispF bifunctional enzyme
+930121..931902	+	593	71083642	ntrY	SAR11_0946	-	COG5000T	nitrogen regulation protein ntrY
+931902..933257	+	451	71083643	ntrX	SAR11_0948	-	COG2204T	nitrogen assimilation regulatory protein ntrX
+933258..934649	+	463	71083644	trkA	SAR11_0949	-	COG0569P	potassium transporter peripheral membrane protein
+934654..936063	+	469	71083645	-	SAR11_0950	-	COG0168P	TrkH-like cation transport protein
+936342..937382	+	346	71083646	yhdW	SAR11_0953	-	COG0834ET	ABC transporter
+937448..938593	+	381	71083647	yhdX	SAR11_0954	-	COG4597E	amino acid ABC transporter
+938593..939873	+	426	71083648	yhdY	SAR11_0955	-	COG0765E	amino-acid ABC transporter permease protein yhdY
+939877..940611	+	244	71083649	yhdZ	SAR11_0957	-	COG1126E	general L-amino acid transport ATP-binding protein
+940786..941157	+	123	71083650	-	SAR11_0958	-	COG1396K	transcriptional regulator
+941232..942389	+	385	71083651	-	SAR11_0959	-	-	hypothetical protein
+942739..945366	+	875	71083652	valS	SAR11_0960	-	COG0525J	valine-tRNA ligase
+945366..947084	+	572	71083653	ilvD	SAR11_0961	-	COG0129EG	dihydroxy-acid dehydratase
+947084..948286	+	400	71083654	manC	SAR11_0962	-	COG0836M	mannose-6-phosphate isomerase
+948344..948565	-	73	71083655	-	SAR11_0963	-	-	hypothetical protein
+948678..949040	+	120	71083656	-	SAR11_0964	-	COG0735P	ferric-uptake regulator
+949040..949438	+	132	71083657	-	SAR11_0965	-	-	hypothetical protein
+949453..950451	+	332	71083658	yiaK	SAR11_0966	-	COG2055C	oxidoreductase YiaK
+950443..951219	-	258	71083659	xthA	SAR11_0967	-	COG0708L	exodeoxyribonuclease III
+951219..951536	-	105	71083660	-	SAR11_0968	-	COG0316S	HesB-like domain-containing protein
+951587..952702	+	371	71083661	dgtP	SAR11_0969	-	COG0232F	dGTPase
+952702..954435	+	577	71083662	argS	SAR11_0970	-	COG0018J	arginine-tRNA ligase
+954435..954698	+	87	71083663	-	SAR11_0971	-	-	hypothetical protein
+954688..955638	+	316	71083664	-	SAR11_0972	-	COG1472G	glycosyl hydrolase
+955647..956387	+	246	71083665	scpA	SAR11_0973	-	COG1354S	segregation and condensation protein a
+956384..957085	+	233	71083666	scpB	SAR11_0974	-	COG1386K	segregation and condensation protein b
+957128..957328	+	66	71083667	tatA	SAR11_0975	-	COG1826U	twin-arginine translocation protein TatA
+957334..957555	+	73	71083668	tatB	SAR11_0976	-	COG1826U	twin-arginine translocation protein TatB
+957542..958306	+	254	71083669	tatC	SAR11_0977	-	COG0805U	sec-independent protein translocase protein tatC
+958299..959558	+	419	71083670	serS	SAR11_0978	-	COG0172J	serine-tRNA ligase
+959612..959896	+	94	71083671	yajC	SAR11_0979	-	COG1862U	hypothetical protein
+959909..961462	+	517	71083672	secD	SAR11_0980	-	COG0342U	protein-export membrane protein SECD
+961462..962349	+	295	71083673	secF	SAR11_0981	-	COG0341U	preprotein translocase subunit SecF
+962352..962945	-	197	71083674	-	SAR11_0982	-	COG3748S	hypothetical protein
+962973..965852	-	959	71083675	uvrA	SAR11_0983	-	COG0178L	excinuclease ABC subunit A
+965942..966400	+	152	71083676	ssb	SAR11_0984	-	COG0629L	single-strand binding protein (ssb)
+966406..968955	+	849	71083677	gyrA	SAR11_0985	-	COG0188L	DNA gyrase subunit A
+968955..969449	+	164	71083678	kdtB	SAR11_0986	-	COG0669H	pantetheine-phosphate adenylyltransferase
+969442..969996	+	184	304570561	ppiB	SAR11_0987	-	COG0652O	peptidyl-prolyl isomerase
+970015..971127	+	370	71083680	tgt	SAR11_0988	-	COG0343J	queuine tRNA-ribosyltransferase
+971129..971263	-	44	71083681	-	SAR11_0989	-	-	hypothetical protein
+971424..972200	-	258	71083682	-	SAR11_0991	-	COG4783R	M48 family peptidase
+972375..972989	+	204	71083683	-	SAR11_0992	-	COG2928S	hypothetical protein
+972986..975037	-	683	71083684	recG	SAR11_0993	-	COG1200LK	ATP-dependent DNA helicase RecG
+975062..975328	+	88	71083685	-	SAR11_0994	-	COG2938S	hypothetical protein
+975511..976392	+	293	71083686	rarD	SAR11_0995	-	COG2962R	rarD protein
+976379..977380	+	333	71083687	mltB	SAR11_0996	-	COG2951M	membrane-bound lytic transglycosylase-like protein
+977370..978128	+	252	71083688	-	SAR11_0997	-	-	hypothetical protein
+978121..979272	+	383	71083689	dacC	SAR11_0998	-	COG1686M	serine-type D-Ala-D-Ala carboxypeptidase
+979265..979876	+	203	71083690	tmk	SAR11_0999	-	COG0125F	thymidylate kinase
+979881..980813	+	310	71083691	holB	SAR11_1000	-	COG0470L	DNA polymerase III
+980814..982355	+	513	71083692	metS	SAR11_1001	-	COG0143J	methionyl-tRNA synthetase
+982348..983112	+	254	71083693	-	SAR11_1002	-	COG0084L	TatD related DNase
+983112..983891	+	259	71083694	-	SAR11_1003	-	COG1235R	metallo-beta-lactamase family protein
+983880..984392	-	170	71083695	bsaA	SAR11_1004	-	COG0386O	glutathione peroxidase
+984438..985544	-	368	71083696	nhaA	SAR11_1005	-	COG3004P	Na+/H+ antiporter 1
+985615..986127	-	170	71083697	-	SAR11_1006	-	-	hypothetical protein
+986302..986583	+	93	71083698	ndufs4	SAR11_1007	-	-	ETC complex I subunit region
+986586..987578	+	330	71083699	sbmA	SAR11_1008	-	COG1133I	transporter
+987578..988525	+	315	71083700	glpX	SAR11_1009	-	COG1494G	fructose 1,6-bisphosphatase II
+988522..990216	+	564	71083701	recJ	SAR11_1010	-	COG0608L	single-stranded-DNA-specific exonuclease RecJ
+990347..990598	+	83	71083702	-	SAR11_1011	-	COG2827L	excinuclease ABC subunit C
+990598..992703	+	701	71083703	-	SAR11_1012	-	COG0438M	group 1 glycosyl transferase
+992704..993414	+	236	71083704	yxkH	SAR11_1013	-	COG0726G	polysaccharide deacetylase
+993416..994618	+	400	71083705	-	SAR11_1014	-	COG0399M	pyridoxamine 5-phosphate-dependent dehydrase
+994615..995427	+	270	71083706	-	SAR11_1015	-	COG0451MG	NAD dependent epimerase/dehydratase f
+995434..996108	+	224	71083707	-	SAR11_1016	-	-	hypothetical protein
+996113..997066	+	317	71083708	-	SAR11_1017	-	COG0859M	hypothetical protein
+997089..997862	-	257	71083709	-	SAR11_1018	-	COG2265J	methyltransferase FkbM
+997872..998828	-	318	71083710	xerD	SAR11_1019	-	COG4974L	integrase/recombinase xerD-like protein
+999127..999570	+	147	71083711	-	SAR11_1020	-	COG0456R	acetyltransferase
+999542..999829	+	95	71083712	ada	SAR11_1021	-	COG0350L	6-O-methylguanine DNA methyltransferase
+1000426..1001238	-	270	71083713	-	SAR11_1022	-	COG2962R	DMT family permease
+1001292..1002194	-	300	71083714	-	SAR11_1023	-	COG0679R	hypothetical protein
+1002194..1003486	-	430	71083715	hom	SAR11_1025	-	COG0460E	homoserine dehydrogenase
+1003487..1003711	-	74	71083716	-	SAR11_1026	-	-	hypothetical protein
+1003708..1004730	-	340	71083717	argC	SAR11_1027	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+1004766..1005215	-	149	71083718	rpsI	SAR11_1028	-	COG0103J	30S ribosomal protein S9
+1005217..1005678	-	153	71083719	rplM	SAR11_1029	-	COG0102J	50S ribosomal protein L13
+1005891..1007219	+	442	71083720	metY	SAR11_1030	-	COG2873E	O-acetylhomoserine (thiol)-lyase
+1007212..1008222	-	336	71083721	coxW	SAR11_1031	-	COG1612O	cytochrome c oxidase assembly protein (isoform 1)
+1008265..1008555	+	96	71083722	-	SAR11_1032	-	COG1605E	chorismate mutase
+1008558..1008749	-	63	71083723	rpmG	SAR11_1033	-	-	50S ribosomal protein L33
+1008751..1009128	-	125	71083724	merR	SAR11_1034	-	COG0789K	transcriptional regulator
+1009118..1009426	-	102	71083725	himA	SAR11_1035	-	COG0776L	DNA-binding protein
+1009420..1010421	-	333	71083726	plsX	SAR11_1036	-	COG0416I	fatty acid/phospholipid synthesis protein PlsX
+1010436..1010618	-	60	71083727	rpmF	SAR11_1037	-	COG0333J	50S ribosomal protein L32
+1010626..1011093	-	155	71083728	-	SAR11_1038	-	COG5452	hypothetical protein
+1011092..1011556	+	154	71083729	-	SAR11_1039	-	COG2913J	hypothetical protein
+1011564..1013669	-	701	71083730	hppA	SAR11_1040	-	COG3808C	membrane-bound proton-translocating pyrophosphatase
+1013756..1014715	-	319	71083731	thiL	SAR11_1041	-	COG0611H	thiamine-phosphate kinase
+1014708..1015112	-	134	71083732	nusB	SAR11_1042	-	COG0781K	antitermination protein NusB
+1015115..1015501	-	128	71083733	ribH	SAR11_1043	-	COG0054H	riboflavin synthase
+1015501..1016601	-	366	71083734	ribA	SAR11_1044	-	COG0108H	GTP cyclohydrolase II
+1016588..1017181	-	197	71083735	ribB	SAR11_1045	-	COG0307H	riboflavin synthase subunit alpha
+1017186..1018241	-	351	71083736	ribD	SAR11_1046	-	COG0117H	5-amino-6-(5-phosphoribosylamino)uracil reductase
+1018267..1018725	-	152	71083737	nrdR	SAR11_1047	-	COG1327K	transcriptional regulator NrdR
+1018725..1020035	-	436	71083738	glyA	SAR11_1048	-	COG0112E	glycine hydroxymethyltransferase
+1020038..1020463	-	141	71083739	rpiB	SAR11_1049	-	COG0698G	ribose-5-phosphate isomerase
+1020465..1021106	-	213	71083740	-	SAR11_1050	-	COG3555O	hypothetical protein
+1021179..1022168	+	329	71083741	hemB	SAR11_1051	-	COG0113H	delta-aminolevulinic acid dehydratase
+1022169..1022849	-	226	71083742	recO	SAR11_1052	-	COG1381L	recombination protein O
+1022846..1023514	-	222	71083743	rnc	SAR11_1053	-	COG0571K	ribonuclease III
+1023514..1024248	-	244	71083744	sipF	SAR11_1054	-	COG0681U	signal peptidase I
+1024245..1024631	-	128	71083745	acpS	SAR11_1055	-	COG0736I	Holo-[acyl-carrier protein] synthase (Holo-ACP synthase)
+1024634..1025353	-	239	71083746	pdxJ	SAR11_1056	-	COG0854H	pyridoxine 5'-phosphate synthase
+1025350..1025937	-	195	71083747	pyrE	SAR11_1057	-	COG0461F	orotate phosphoribosyltransferase
+1025894..1027639	-	581	71083748	-	SAR11_1058	-	COG0317TK	GTP pyrophosphokinase
+1027659..1028180	-	173	71083749	folK	SAR11_1059	-	COG0801H	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+1028146..1028616	-	156	71083750	smpB	SAR11_1061	-	COG0691O	SsrA-binding protein
+1028616..1029497	-	293	71083751	dapA	SAR11_1062	-	COG0329EM	dihydrodipicolinate synthase
+1029539..1031752	+	737	71083752	slt	SAR11_1063	-	COG0741M	lytic murein transglycosylase
+1031913..1033166	+	417	71083753	soxB	SAR11_1064	-	COG0665E	sarcosine oxidase
+1033166..1033441	+	91	71083754	soxD	SAR11_1065	-	COG4311E	sarcosine oxidase subunit delta
+1033446..1036454	+	1002	71083755	soxA	SAR11_1066	-	COG0404E	sarcosine oxidase subunit alpha
+1036447..1037010	+	187	304570562	soxG	SAR11_1067	-	COG4583E	sarcosine oxidase subunit gamma
+1037047..1037814	+	255	71083757	pheC	SAR11_1068	-	COG0834ET	cyclohexadienyl dehydratase
+1037915..1038595	+	226	71083758	glnP	SAR11_1069	-	COG0765E	ABC transporter permease
+1038595..1038858	+	87	71083759	-	SAR11_1071	-	-	N-acetyltransferase GCN5
+1038898..1039383	-	161	71083760	-	SAR11_1072	-	COG1525L	nuclease-like protein
+1039346..1040716	-	456	71083761	norM	SAR11_1073	-	COG0534V	matE efflux family protein
+1040726..1041631	-	301	71083762	yceA	SAR11_1074	-	COG1054R	rhodanese domain-containing protein
+1041631..1042281	-	216	71083763	-	SAR11_1075	-	COG4122R	O-methyltransferase
+1042318..1043796	-	492	71083764	gatB	SAR11_1076	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1043797..1045254	-	485	71083765	gatA	SAR11_1077	-	COG0154J	glutamyl-tRNA(Gln) amidotransferase subunit A
+1045254..1045541	-	95	71083766	gatC	SAR11_1078	-	COG0721J	Glu-tRNAGln amidotransferase C subunit
+1045593..1046048	+	151	71083767	-	SAR11_1079	-	COG0816L	Holliday junction resolvase
+1046091..1047032	+	313	71083768	pyrB	SAR11_1080	-	COG0540F	aspartate carbamoyltransferase
+1047033..1048319	+	428	71083769	pyrC	SAR11_1081	-	COG0044F	dihydroorotase
+1048322..1048897	+	191	71083770	ygiH	SAR11_1082	-	COG0344S	hypothetical protein
+1048935..1051526	+	863	71083771	topA	SAR11_1083	-	COG0550L	DNA topoisomerase I
+1051523..1051825	+	100	71083772	-	SAR11_1084	-	-	hypothetical protein
+1051828..1052289	+	153	71083773	-	SAR11_1085	-	COG0251J	endoribonuclease L-PSP
+1052286..1053584	-	432	71083774	ugd	SAR11_1086	-	COG1004M	udpglucose 6-dehydrogenase
+1053581..1054396	-	271	71083775	galU	SAR11_1087	-	COG1210M	UTP-glucose-1-phosphate uridylyltransferase
+1054401..1055243	+	280	71083776	panC	SAR11_1088	-	COG0414H	pantoate-beta-alanine ligase
+1055240..1056613	-	457	71083777	mgtE	SAR11_1089	-	COG2239P	magnesium transport protein mgtE
+1056675..1057295	+	206	71083778	rfaL	SAR11_1090	-	COG0321H	lipoate-protein ligase B
+1057276..1058190	-	304	71083779	rluC	SAR11_1091	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+1058215..1058652	-	145	71083780	rplQ	SAR11_1092	-	COG0203J	50S ribosomal protein L17
+1058652..1059680	-	342	71083781	rpoA	SAR11_1093	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+1059684..1060136	-	150	71083782	rpsK	SAR11_1094	-	COG0100J	30S ribosomal protein S11
+1060144..1060527	-	127	71083783	rpsM	SAR11_1095	-	COG0099J	30S ribosomal protein S13
+1060583..1061224	-	213	71083784	adk	SAR11_1096	-	COG0563F	adenylate kinase
+1061229..1062509	-	426	71083785	secY	SAR11_1097	-	COG0201U	preprotein translocase subunit SecY
+1062520..1062981	-	153	71083786	rplO	SAR11_1099	-	COG0200J	50S ribosomal protein L15
+1062981..1063493	-	170	71083787	rpsE	SAR11_1100	-	COG0098J	30S ribosomal protein S5
+1063496..1063852	-	118	71083788	rplR	SAR11_1101	-	COG0256J	50S ribosomal protein L18
+1063852..1064391	-	179	71083789	rplF	SAR11_1102	-	COG0097J	50S ribosomal protein L6
+1064391..1064786	-	131	71083790	rpsH	SAR11_1103	-	COG0096J	30S ribosomal protein S8
+1064797..1065102	-	101	71083791	rpsN	SAR11_1104	-	COG0199J	30S ribosomal protein S14
+1065105..1065659	-	184	71083792	rplE	SAR11_1105	-	COG0094J	50S ribosomal protein L5
+1065659..1065907	-	82	71083793	rplX	SAR11_1106	-	COG0198J	50S ribosomal protein L24
+1065908..1066276	-	122	71083794	rplN	SAR11_1107	-	COG0093J	50S ribosomal protein L14
+1066273..1066509	-	78	71083795	rpsQ	SAR11_1108	-	COG0186J	30S ribosomal protein S17
+1066502..1066693	-	63	71083796	rpmC	SAR11_1109	-	COG0255J	50S ribosomal protein L29
+1066695..1067105	-	136	71083797	rplP	SAR11_1110	-	COG0197J	50S ribosomal protein L16
+1067108..1067788	-	226	71083798	rpsC	SAR11_1111	-	COG0092J	30S ribosomal protein S3
+1067772..1068170	-	132	71083799	rplV	SAR11_1112	-	COG0091J	50S ribosomal protein L22
+1068173..1068466	-	97	71083800	rpsS	SAR11_1113	-	COG0185J	30S ribosomal protein S19
+1068466..1069311	-	281	71083801	rplB	SAR11_1114	-	COG0090J	50S ribosomal protein L2
+1069314..1069607	-	97	71083802	rplW	SAR11_1115	-	COG0089J	50S ribosomal protein L23
+1069609..1070232	-	207	71083803	rplD	SAR11_1116	-	COG0088J	50S ribosomal protein L4
+1070232..1070942	-	236	71083804	rplC	SAR11_1117	-	COG0087J	50S ribosomal protein L3
+1070945..1071253	-	102	71083805	rpsJ	SAR11_1118	-	COG0051J	30S ribosomal protein S10
+1071259..1073337	-	692	71083806	fusA	SAR11_1119	-	COG0480J	translation elongation factor EF-G
+1073344..1073814	-	156	71083807	rpsG	SAR11_1120	-	COG0049J	30S ribosomal protein S7
+1073817..1074188	-	123	71083808	rpsL	SAR11_1121	-	COG0048J	30S ribosomal protein S12
+1074360..1078529	-	1389	71083809	rpoC	SAR11_1122	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+1078532..1082623	-	1363	71083810	rpoB	SAR11_1123	-	COG0085K	DNA-directed RNA polymerase
+1082679..1083044	-	121	71083811	rplL	SAR11_1124	-	COG0222J	50S ribosomal protein L31
+1083072..1083572	-	166	71083812	rplJ	SAR11_1125	-	COG0244J	50S ribosomal protein L10
+1083578..1084267	-	229	71083813	rplA	SAR11_1126	-	COG0081J	50S ribosomal protein L1
+1084267..1084692	-	141	71083814	rplK	SAR11_1127	-	COG0080J	50S ribosomal protein L11
+1084692..1085222	-	176	71083815	nusG	SAR11_1128	-	COG0250K	transcription antitermination protein NusG
+1085222..1085413	-	63	71083816	secE	SAR11_1129	-	COG0690U	protein secE/sec61-gamma protein
+1085516..1086706	-	396	71083817	tufB	SAR11_1130	-	COG0050J	elongation factor Tu
+1087091..1087834	+	247	71083818	-	SAR11_1131	-	COG0566J	SpoU rRNA methylase family
+1087948..1088727	-	259	71083819	ppnK	SAR11_1132	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+1088896..1089297	-	133	71083820	-	SAR11_1133	-	COG2105S	hypothetical protein
+1089302..1090051	-	249	71083821	-	SAR11_1134	-	COG1058R	hypothetical protein
+1090073..1090771	+	232	71083822	sfsA	SAR11_1135	-	COG1489R	sugar fermentation stimulation protein
+1090764..1091534	+	256	71083823	map	SAR11_1136	-	COG0024J	methionine aminopeptidase
+1091538..1092830	+	430	71083824	purB	SAR11_1137	-	COG0015F	adenylosuccinate lyase
+1092830..1093612	+	260	71083825	purC	SAR11_1138	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+1093614..1093856	+	80	71083826	-	SAR11_1139	-	COG1828F	phosphoribosylformylglycinamidine (FGAM) synthase
+1093863..1094546	+	227	71083827	purQ	SAR11_1140	-	COG0047F	phosphoribosylformylglycinamidine synthase I
+1094546..1096738	+	730	71083828	purL	SAR11_1141	-	COG0046F	phosphoribosylformylglycinamidine synthase II (FGAM synthase II)
+1096740..1096970	+	76	71083829	-	SAR11_1142	-	COG0271T	BolA-like protein
+1096970..1097302	+	110	71083830	grlA	SAR11_1143	-	COG0278O	glutaredoxin
+1097307..1098497	-	396	71083831	cfa	SAR11_1144	-	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+1098633..1099250	-	205	71083832	rpsD	SAR11_1145	-	COG0522J	30S ribosomal protein S4
+1099291..1100004	-	237	71083833	-	SAR11_1146	-	COG0565J	SpoU rRNA methylase family
+1100004..1101605	-	533	71083834	-	SAR11_1147	-	COG0119E	alpha-isopropylmalate synthase
+1101602..1102963	-	453	71083835	cysS	SAR11_1148	-	COG0215J	cysteinyl-tRNA synthetase
+1103009..1103695	-	228	71083836	nadE	SAR11_1149	-	COG0171H	NH(3)-dependent NAD+ synthetase NadE
+1103786..1105165	-	459	71083837	dhs	SAR11_1150	-	COG3200E	2-dehydro-3-deoxyphosphooctonate aldolase
+1105201..1107021	-	606	71083838	glmS	SAR11_1151	-	COG0449M	glutamine-fructose-6-phosphate transaminase (isomerizing)
+1107023..1107646	-	207	71083839	glmU	SAR11_1152	-	COG1207M	UDP-N-acetylglucosamine diphosphorylase
+1107717..1108406	+	229	71083840	gph	SAR11_1153	-	COG0546R	phosphoglycolate phosphatase
+1108457..1109959	+	500	71083841	prpD	SAR11_1154	-	COG2079R	2-methylcitrate dehydratase
+1109959..1110855	+	298	71083842	prpB	SAR11_1155	-	COG2513G	hypothetical protein
+1110855..1111979	+	374	71083843	prpC	SAR11_1156	-	COG0372C	citrate synthase
+1111980..1112606	-	208	71083844	-	SAR11_1157	-	-	methyltransferase
+1112611..1113624	-	337	71083845	nrdF	SAR11_1158	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+1113630..1115567	-	645	71083846	nrdA	SAR11_1159	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+1115724..1117178	+	484	71083847	manB	SAR11_1160	-	COG1109G	phosphomannomutase
+1117162..1117443	+	93	71083848	-	SAR11_1728	-	-	hypothetical protein
+1117612..1118571	-	319	71083849	sbcC	SAR11_1161	-	-	sbcC
+1118568..1119218	-	216	71083850	-	SAR11_1162	-	-	hypothetical protein
+1119467..1119844	-	125	71083851	-	SAR11_1163	-	-	hypothetical protein
+1119848..1120411	-	187	71083852	-	SAR11_1164	-	-	lipoprotein
+1120857..1121216	+	119	71083853	-	SAR11_1165	-	-	exonuclease
+1121220..1121555	-	111	71083854	-	SAR11_1166	-	-	hypothetical protein
+1121545..1122273	-	242	71083855	-	SAR11_1167	-	-	hypothetical protein
+1122281..1122634	-	117	71083856	-	SAR11_1168	-	-	hypothetical protein
+1122717..1123616	-	299	71083857	-	SAR11_1169	-	COG1637L	hypothetical protein
+1123935..1124120	-	61	71083858	-	SAR11_1170	-	-	hypothetical protein
+1124146..1125489	-	447	71083859	ordL	SAR11_1171	-	COG0665E	oxidoreductase
+1125607..1126158	-	183	71083860	osmC	SAR11_1172	-	COG1765O	OsmC-like protein
+1126231..1127292	-	353	71083861	bhmT	SAR11_1173	-	COG0646E	betaine-homocysteine methyltransferase
+1127554..1127718	-	54	71083862	-	SAR11_1730	-	-	hypothetical protein
+1127719..1127925	-	68	71083863	-	SAR11_1729	-	COG5515S	hypothetical protein
+1128011..1128691	-	226	71083864	phoB	SAR11_1174	-	COG0745TK	phosphate regulatory protein
+1128691..1129389	-	232	71083865	phoU	SAR11_1175	-	COG0704P	phosphate uptake regulatory protein PhoU
+1129392..1130159	-	255	71083866	pstB	SAR11_1176	-	COG1117P	phosphate ABC transporter
+1130159..1131418	-	419	71083867	pstA	SAR11_1177	-	COG0581P	ABC transporter
+1131411..1132811	-	466	71083868	pstC	SAR11_1178	-	COG0573P	ABC transporter
+1132929..1133945	-	338	71083869	pstS	SAR11_1179	-	COG0226P	phosphate ABC transporter
+1134061..1135104	-	347	71083870	phoR	SAR11_1180	-	COG5002T	phosphate regulon
+1135181..1136146	+	321	71083871	-	SAR11_1181	-	-	hypothetical protein
+1136254..1136418	-	54	71083872	-	SAR11_1731	-	-	hypothetical protein
+1136415..1136597	-	60	71083873	-	SAR11_1182	-	-	hypothetical protein
+1136605..1136979	-	124	71083874	-	SAR11_1183	-	-	hypothetical protein
+1137048..1137476	-	142	71083875	cytC	SAR11_1184	-	COG2010C	cytochrome c
+1137555..1138439	+	294	71083876	-	SAR11_1185	-	COG0697GER	hypothetical protein
+1138454..1138990	-	178	71083877	-	SAR11_1186	-	COG1357S	hypothetical protein
+1139061..1140461	-	466	71083878	gdhA	SAR11_1187	-	COG0334E	glutamate dehydrogenase
+1140479..1140967	-	162	71083879	-	SAR11_1188	-	-	hypothetical protein
+1140964..1141257	-	97	71083880	-	SAR11_1189	-	-	hypothetical protein
+1141259..1142869	-	536	71083881	-	SAR11_1190	-	COG0659P	sulfate permease family protein
+1143032..1143436	-	134	71083882	-	SAR11_1191	-	COG0537FGR	HIT domain-containing protein
+1143439..1144203	-	254	71083883	-	SAR11_1192	-	COG0730R	hypothetical protein
+1144265..1145257	-	330	71083884	-	SAR11_1193	-	COG0042J	tRNA-dihydrouridine synthase A
+1145280..1145822	-	180	71083885	rpoZ	SAR11_1194	-	COG1758K	DNA-directed RNA polymerase subunit omega
+1145866..1147074	-	402	71083886	-	SAR11_1195	-	COG2814G	membrane permease
+1147089..1147955	+	288	71083887	mmsB	SAR11_1196	-	COG2084I	3-hydroxyisobutyrate dehydrogenase
+1147962..1148561	+	199	71083888	-	SAR11_1197	-	-	flavin mononucleotide binding protein
+1148558..1149070	-	170	71083889	-	SAR11_1198	-	COG0663R	transferase
+1149091..1149645	+	184	71083890	-	SAR11_1199	-	COG1225O	hypothetical protein
+1149702..1150727	+	341	71083891	amsK	SAR11_1200	-	COG0438M	glycosyl transferase family protein
+1150724..1152226	-	500	71083892	tctA	SAR11_1201	-	COG3333S	tricarboxylic transport protein TctA
+1152223..1152693	-	156	71083893	tctB	SAR11_1202	-	-	tricarboxylic transport tctB
+1152723..1153703	-	326	71083894	tctC	SAR11_1203	-	COG3181S	tricarboxylic transport protein TctC
+1153904..1155001	+	365	71083895	abrB	SAR11_1204	-	COG3180R	AbrB family transcriptional regulator
+1154993..1155925	-	310	71083896	rfaF	SAR11_1206	-	COG0859M	heptosyltransferase family protein
+1155958..1156347	+	129	71083897	-	SAR11_1207	-	-	hypothetical protein
+1156341..1157015	-	224	71083898	oocM	SAR11_1208	-	COG4160E	octopine-like transport system permease protein oocM
+1157015..1157707	-	230	71083899	occQ	SAR11_1209	-	COG4215E	ABC transporter
+1157753..1158604	-	283	71083900	occT	SAR11_1210	-	COG0834ET	ABC transporter
+1158666..1159706	-	346	71083901	speE	SAR11_1211	-	COG0421E	spermine/spermidine synthase
+1159819..1160343	-	174	71083902	pfs	SAR11_1212	-	COG0775F	5'-methylthioadenosine nucleosidase
+1160381..1160908	+	175	71083903	apt	SAR11_1213	-	COG0503F	adenine phosphoribosyltransferase
+1160941..1162149	+	402	71083904	-	SAR11_1214	-	COG5010U	hypothetical protein
+1162229..1163071	-	280	71083905	-	SAR11_1215	-	-	sulfotransferase domain-containing protein
+1163669..1164238	+	189	71083906	ecpD	SAR11_1216	-	-	fimbrial protein pilin
+1164385..1164786	+	133	71083907	glbN	SAR11_1217	-	COG2346R	globin family protein
+1164991..1165692	+	233	71083908	sigB	SAR11_1218	-	COG2208TK	sigma factor SigB regulation protein
+1165696..1166454	+	252	71083909	-	SAR11_1219	-	COG4969NU	fimbrial protein pilin
+1166737..1166964	-	75	71083910	-	SAR11_1220	-	-	hypothetical protein
+1167006..1169450	-	814	71083911	-	SAR11_1221	-	COG0404E	sarcosine dehydrogenase
+1169497..1169940	-	147	71083912	cycA	SAR11_1222	-	COG3909C	cytochrome c'
+1169944..1170486	+	180	71083913	-	SAR11_1223	-	COG3038C	cytochrome b561 family protein
+1170490..1171194	-	234	71083914	-	SAR11_1225	-	COG1262S	hypothetical protein
+1171170..1171739	-	189	71083915	-	SAR11_1226	-	-	methyltransferase
+1171935..1172888	+	317	71083916	-	SAR11_1227	-	COG1397O	ADP-ribosylglycohydrolase
+1172889..1174208	+	439	71083917	dinF	SAR11_1228	-	COG0534V	DNA-damage inducible protein F
+1174245..1175258	+	337	71083918	-	SAR11_1229	-	COG0491R	hydroxyacylglutathione hydrolase
+1175268..1175693	-	141	71083919	-	SAR11_1230	-	-	hypothetical protein
+1175833..1176201	-	122	71083920	-	SAR11_1231	-	COG0526OC	thioredoxin
+1176246..1177139	-	297	71083921	-	SAR11_1232	-	COG2510S	hypothetical protein
+1177163..1177438	-	91	71083922	-	SAR11_1233	-	COG4392S	hypothetical protein
+1177480..1178178	-	232	71083923	azlC	SAR11_1235	-	COG1296E	AzlC protein
+1178198..1179256	-	352	71083924	sfuA	SAR11_1236	-	COG3842E	iron(III) ABC transporter
+1179261..1180877	-	538	71083925	sfuB	SAR11_1237	-	COG1178P	iron(III) ABC transporter
+1180952..1181971	-	339	71083926	sfuC	SAR11_1238	-	COG1840P	iron-uptake ABC transport system periplasmic iron-binding protein
+1182072..1182365	-	97	71083927	-	SAR11_1239	-	-	hypothetical protein
+1182407..1183681	-	424	71083928	aceA	SAR11_1240	-	COG2224C	isocitrate lyase
+1183727..1183888	-	53	71083929	-	SAR11_1241	-	-	hypothetical protein
+1184000..1185433	+	477	71083930	-	SAR11_1242	-	COG3800R	transcriptional regulator
+1185434..1186324	-	296	71083931	-	SAR11_1243	-	COG0583K	transcriptional regulator
+1186325..1187326	-	333	71083932	yhdH	SAR11_1244	-	COG0604CR	zinc-binding alcohol dehydrogenase
+1187347..1187955	-	202	71083933	folE	SAR11_1245	-	COG0302H	GTP cyclohydrolase I
+1188012..1188500	+	162	71083934	hisI	SAR11_1246	-	COG0139E	phosphoribosyl-AMP cyclohydrolase
+1188501..1188875	+	124	71083935	-	SAR11_1247	-	COG3651S	hypothetical protein
+1188881..1189852	-	323	71083936	-	SAR11_1248	-	-	hypothetical protein
+1189957..1190175	+	72	71083937	-	SAR11_1249	-	-	hypothetical protein
+1190176..1191780	-	534	71083938	-	SAR11_1250	-	COG0644C	electron transfer flavoprotein-ubiquinone oxidoreductase
+1191819..1192772	-	317	71083939	etfA	SAR11_1251	-	COG2025C	electron transfer flavoprotein subunit alpha
+1192772..1193521	-	249	71083940	etfB	SAR11_1252	-	COG2086C	electron transfer flavoprotein subunit beta
+1193521..1195953	-	810	71083941	-	SAR11_1253	-	COG0404E	dimethylglycine dehydrogenase
+1196013..1196492	-	159	71083942	-	SAR11_1254	-	-	hypothetical protein
+1196458..1197027	-	189	71083943	-	SAR11_1255	-	COG2249R	NADPH-quinone reductase
+1197066..1197263	+	65	71083944	-	SAR11_1256	-	-	hypothetical protein
+1197221..1197643	-	140	71083945	-	SAR11_1257	-	COG2391R	hypothetical protein
+1197640..1198059	-	139	71083946	yeeE	SAR11_1258	-	COG2391R	hypothetical protein
+1198060..1198497	-	145	71083947	met17	SAR11_1259	-	COG1832R	hypothetical protein
+1198497..1199282	-	261	71083948	ydbS	SAR11_1260	-	COG1024I	enoyl-CoA hydratase
+1199266..1199640	-	124	71083949	-	SAR11_1261	-	COG1056H	cytidylyltransferase
+1199640..1200047	-	135	71083950	cysC	SAR11_1262	-	COG0529P	adenylylsulfate kinase
+1200049..1201242	-	397	71083951	-	SAR11_1263	-	COG4638PR	dioxygenase subunit alpha
+1201343..1202071	+	242	71083952	metF	SAR11_1264	-	COG0685E	methylenetetrahydrofolate reductase
+1202064..1203422	+	452	71083953	-	SAR11_1265	-	COG0404E	glycine cleavage system protein T
+1203572..1204117	+	181	71083954	-	SAR11_1266	-	-	hypothetical protein
+1204114..1204284	-	56	71083955	-	SAR11_1267	-	-	hypothetical protein
+1204277..1204888	-	203	71083956	-	SAR11_1268	-	-	hypothetical protein
+1204894..1206546	-	550	71083957	-	SAR11_1269	-	-	hypothetical protein
+1206543..1207514	-	323	71083958	-	SAR11_1270	-	COG2355E	dipeptidase
+1207629..1208120	+	163	71083959	-	SAR11_1271	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic chain
+1208130..1209176	+	348	71083960	purE	SAR11_1272	-	COG0026F	phosphoribosylaminoimidazole carboxylase ATPase chain
+1209188..1209655	+	155	71083961	-	SAR11_1273	-	COG1246E	acetyltransferase
+1209774..1209980	+	68	71083962	cspL	SAR11_1274	-	COG1278K	cold shock DNA-binding domain-containing protein
+1210062..1210796	-	244	71083963	-	SAR11_1275	-	COG0596R	alpha/beta hydrolase
+1210949..1211227	+	92	71083964	-	SAR11_1276	-	COG3806T	hypothetical protein
+1211265..1212011	+	248	71083965	racX	SAR11_1277	-	COG1794M	aspartate racemase
+1212015..1212455	+	146	71083966	-	SAR11_1278	-	-	hypothetical protein
+1212445..1212756	-	103	71083967	-	SAR11_1279	-	-	hypothetical protein
+1212866..1213717	+	283	71083968	-	SAR11_1280	-	COG0697GER	hypothetical protein
+1213722..1214309	-	195	71083969	soxG2	SAR11_1281	-	COG4583E	sarcosine oxidase
+1214306..1217302	-	998	71083970	soxA2	SAR11_1282	-	COG0404E	sarcosine oxidase subunit alpha
+1217304..1217570	-	88	71083971	soxD2	SAR11_1283	-	COG4311E	sarcosine oxidase subunit delta
+1217571..1218827	-	418	71083972	soxB2	SAR11_1284	-	COG0665E	sarcosine oxidase subunit beta
+1218954..1220639	+	561	71083973	fhs	SAR11_1285	-	COG2759F	formate-tetrahydrofolate ligase
+1220643..1221434	-	263	71083974	-	SAR11_1286	-	COG0518F	glutamine amidotransferase
+1221431..1222597	-	388	71083975	-	SAR11_1287	-	COG1454C	iron-containing alcohol dehydrogenase
+1222669..1224045	+	458	71083976	ssdH	SAR11_1288	-	COG1012C	aldehyde dehydrogenase
+1224047..1224802	+	251	71083977	-	SAR11_1289	-	COG1028IQR	short chain dehydrogenase
+1224850..1225926	-	358	71083978	-	SAR11_1290	-	COG4663Q	TRAP-type extracellular solute-binding protein
+1226064..1227395	-	443	71083979	dctM	SAR11_1292	-	COG4664Q	TrapT family protein
+1227395..1227904	-	169	71083980	dctQ	SAR11_1293	-	COG4665Q	tripartite ATP-independent periplasmic
+1227911..1228105	-	64	71083981	-	SAR11_1294	-	-	hypothetical protein
+1228099..1229127	-	342	71083982	gpsA	SAR11_1295	-	COG0240C	glycerol-3-phosphate dehydrogenase
+1229207..1230538	+	443	71083983	-	SAR11_1296	-	COG2072P	flavin-containing monooxygenase
+1230571..1232724	-	717	71083984	opuAB	SAR11_1297	-	COG4176E	glycine betaine/L-proline transport system permease
+1232734..1233759	-	341	71083985	opuAA	SAR11_1298	-	COG4175E	glycine betaine/l-proline transport ATP-binding protein
+1233832..1234380	-	182	71083986	-	SAR11_1299	-	-	hypothetical protein
+1234392..1234769	-	125	71083987	-	SAR11_1300	-	COG4642S	MORN repeat-containing protein
+1234804..1235283	-	159	71083988	-	SAR11_1301	-	-	hypothetical protein
+1235374..1236318	-	314	71083989	opuAC	SAR11_1302	-	COG2113E	substrate-binding region of ABC-type glycine betaine transport system
+1236434..1238761	+	775	71083990	-	SAR11_1303	-	COG0404E	glycine cleavage system protein T
+1238765..1239115	+	116	71083991	rpl6e	SAR11_1732	-	-	50S ribosomal protein L6
+1239215..1240543	+	442	71083992	-	SAR11_1304	-	COG0665E	monomeric sarcosine oxidase
+1240616..1242085	+	489	71083993	-	SAR11_1305	-	COG0174E	GlnT-like protein
+1242110..1243054	+	314	71083994	-	SAR11_1306	-	COG0067E	glutamine amidotransferase-like protein
+1243042..1243896	+	284	71083995	-	SAR11_1307	-	COG0070E	GXGXG motif-containing protein
+1243896..1245320	+	474	71083996	-	SAR11_1308	-	COG0069E	glutamate synthase large subunit-like protein
+1245330..1245731	+	133	71083997	-	SAR11_1309	-	-	hypothetical protein
+1245857..1247257	+	466	71083998	amt	SAR11_1310	-	COG0004P	ammonium transporter
+1247269..1247493	+	74	71083999	-	SAR11_1311	-	-	hypothetical protein
+1247554..1247706	+	50	71084000	-	SAR11_1312	-	-	hypothetical protein
+1247719..1248597	+	292	71084001	glxB	SAR11_1313	-	COG0067E	glutamine amidotransferase-like protein glxB
+1248601..1249281	+	226	71084002	glxC	SAR11_1314	-	COG0070E	GlxC protein
+1249284..1250600	+	438	71084003	glxD	SAR11_1315	-	COG0069E	glutamate synthase large subunit
+1250644..1251969	+	441	71084004	glnT	SAR11_1316	-	COG0174E	glutamine synthetase
+1251973..1253115	+	380	71084005	ygeX	SAR11_1317	-	COG1171E	diaminopropionate ammonia-lyase
+1253122..1254543	+	473	71084006	phrB	SAR11_1318	-	COG0415L	deoxyribodipyrimidine photo-lyase
+1254540..1254959	-	139	71084007	-	SAR11_1319	-	COG0432S	hypothetical protein
+1254956..1255816	-	286	71084008	-	SAR11_1320	-	COG1485R	AFG1-like ATPase
+1256001..1256438	-	145	71084009	-	SAR11_1321	-	-	hypothetical protein
+1256441..1257742	-	433	71084010	-	SAR11_1322	-	COG1520S	PQQ repeat-containing protein
+1257732..1258376	-	214	71084011	-	SAR11_1323	-	COG2976S	hypothetical protein
+1258379..1261048	-	889	71084012	acnA	SAR11_1324	-	COG1048C	aconitate hydratase
+1261054..1261641	-	195	71084013	yfiK	SAR11_1325	-	COG1280E	transporter
+1261647..1261988	-	113	71084014	csaA	SAR11_1326	-	COG0073R	CsaA protein
+1262016..1263206	+	396	71084015	argE	SAR11_1327	-	COG0624E	acetylornithine deacetylase
+1263228..1264664	-	478	71084016	-	SAR11_1328	-	COG1012C	aldehyde dehydrogenase
+1264679..1265644	-	321	71084017	speB	SAR11_1329	-	COG0010E	agmatinase
+1265702..1266439	+	245	71084018	-	SAR11_1330	-	-	lipoprotein
+1266439..1267083	+	214	71084019	ppiA	SAR11_1331	-	COG0652O	peptidylprolyl cis-trans isomerase
+1267165..1268373	+	402	71084020	-	SAR11_1332	-	-	hypothetical protein
+1268370..1270592	-	740	71084021	fadB	SAR11_1333	-	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+1270649..1271503	-	284	71084022	potC	SAR11_1334	-	COG1177E	spermidine/putrescine transport system permease protein potc
+1271507..1272754	-	415	71084023	potB	SAR11_1335	-	COG1176E	spermidine/putrescine transport system permease protein potb
+1272839..1273960	-	373	71084024	potD	SAR11_1336	-	COG0687E	spermidine/putrescine-binding periplasmic protein
+1274095..1275183	-	362	71084025	potA	SAR11_1337	-	COG3842E	spermidine/putrescine transport ATP-binding protein pota
+1275242..1276408	-	388	71084026	y4tM	SAR11_1338	-	COG0006E	X-Pro dipeptidase
+1276409..1277155	-	248	71084027	-	SAR11_1339	-	COG3473Q	racemase
+1277497..1278489	+	330	71084028	-	SAR11_1340	-	COG2141C	luciferase-like monooxygenase
+1278489..1279076	+	195	71084029	-	SAR11_1341	-	-	hypothetical protein
+1279081..1279863	+	260	71084030	-	SAR11_1342	-	COG0596R	alpha/beta hydrolase
+1279864..1281345	+	493	71084031	dhaS	SAR11_1343	-	COG1012C	betaine-aldehyde dehydrogenase
+1281350..1282207	+	285	71084032	-	SAR11_1344	-	COG2510S	hypothetical protein
+1282283..1283467	+	394	71084033	livJ	SAR11_1346	-	COG0683E	hypothetical protein
+1283524..1284285	-	253	71084034	-	SAR11_1347	-	COG0730R	hypothetical protein
+1284287..1285450	-	387	71084035	-	SAR11_1348	-	COG2814G	hypothetical protein
+1285527..1286858	-	443	71084036	livM	SAR11_1349	-	COG4177E	branched chain amino acid ABC transporter permease
+1286894..1287904	-	336	71084037	livH	SAR11_1350	-	COG0559E	branched chain amino acid ABC transporter permease
+1287906..1288613	-	235	71084038	livF	SAR11_1351	-	COG0410E	branched-chain amino acid ABC transporter ATP-binding protein
+1288613..1289407	-	264	71084039	livG	SAR11_1352	-	COG0411E	ABC transporter ATP-binding protein
+1289413..1290180	-	255	71084040	-	SAR11_1353	-	COG0345E	pyrroline-5-carboxylate reductase
+1290213..1291124	-	303	71084041	gab	SAR11_1354	-	-	hypothetical protein
+1291124..1291447	-	107	71084042	-	SAR11_1355	-	-	hypothetical protein
+1291437..1292141	-	234	71084043	-	SAR11_1356	-	COG1296E	hypothetical protein
+1292141..1292926	-	261	304570563	livF2	SAR11_1357	-	COG0410E	branched-chain amino acid ABC transporter ATP-binding protein
+1292926..1293666	-	246	71084045	livG2	SAR11_1358	-	COG0411E	ABC transporter ATP-binding protein
+1293666..1294694	-	342	71084046	livM2	SAR11_1359	-	COG4177E	high-affinity branched-chain amino acid transport permease
+1294718..1295578	-	286	71084047	livH2	SAR11_1360	-	COG0559E	high-affinity branched-chain amino acid transport permease
+1295676..1296917	-	413	71084048	livJ2	SAR11_1361	-	COG0683E	Leu/Ile/Val-binding protein precursor
+1297008..1297622	-	204	71084049	rhtB	SAR11_1362	-	COG1280E	LysE type translocator
+1297756..1298052	+	98	71084050	-	SAR11_1363	-	-	hypothetical protein
+1298056..1298310	+	84	71084051	-	SAR11_1364	-	COG0695O	glutaredoxin
+1298312..1298686	-	124	71084052	-	SAR11_1365	-	COG0229O	SelR domain-containing protein
+1298690..1299640	-	316	71084053	serA	SAR11_1366	-	COG0111HE	phosphoglycerate dehydrogenase
+1299633..1300532	-	299	71084054	-	SAR11_1367	-	COG0697GER	transporter
+1300533..1301774	-	413	71084055	dadA	SAR11_1368	-	COG0665E	D-amino-acid dehydrogenase
+1301843..1302964	-	373	71084056	rodA	SAR11_1369	-	COG0772D	rod shape-determining protein RodA
+1302965..1304932	-	655	71084057	pbpA	SAR11_1370	-	COG0768M	penicillin binding protein transpeptide
+1304922..1305443	-	173	71084058	mreD	SAR11_1371	-	COG1480R	rod shape-determining protein MreD
+1305440..1306090	-	216	71084059	mreC	SAR11_1372	-	COG1792M	rod shape-determining protein MreC
+1306297..1307334	-	345	71084060	mreB	SAR11_1373	-	COG1077D	rod shape-determining protein MreB
+1307340..1308584	-	414	71084061	leuA	SAR11_1374	-	COG0119E	2-isopropylmalate synthase
+1308630..1308719	+	29	71084062	-	SAR11_1375	-	COG0119E	hypothetical protein
