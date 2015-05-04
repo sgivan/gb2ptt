@@ -55,7 +55,7 @@ my $seqio = Bio::SeqIO->new(
                                 -format =>  'genbank',
                             );
 
-open(my $OUT, ">", "out.ptt");
+open(my $OUT, ">", $infile . ".ptt");
 say $OUT "Location\tStrand\tLength\tPID\tGene\tSynonym\tCode\tCOG\tProduct";
 # 516..1535	-	339	304570536	ilvC	SAR11_0001	-	COG0059EH	ketol-acid reductoisomerase
 

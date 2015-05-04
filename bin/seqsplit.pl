@@ -136,30 +136,16 @@ while (my $seq = $seqin->next_seq()) {
    if ($cnt <= $splitnum && $cnt != 1) {
 #     $seqout->write_seq($seq);
    } else {
-     $cnt = 1;
-     ++$outcnt;
-     my $new_file_out = "$file_out" . "_$outcnt";
-    my $newFH;
-    open($newFH, ">$new_file_out") or die "can't open '$new_file_out': $!";
-    $seqout->_fh($newFH);
+        $cnt = 1;
+        ++$outcnt;
+        #my $new_file_out = "$file_out" . "_$outcnt";
+        my $new_file_out = $seq->accession() . "." . $seq->version();
+        my $newFH;
+        open($newFH, ">$new_file_out") or die "can't open '$new_file_out': $!";
+        $seqout->_fh($newFH);
 
-#     $seqout = "";
-#     $seqout = Bio::SeqIO->new(	-file	=>	">$new_file_out",
-# 				-format	=>	$outfile_format,
-# 				);
-# 	if (lc($outfile_format) eq 'fastq') {
-# 		print "writing fastq\n";
-# 		$seqout->write_fastq($seq);
-# 	} else {
-#      	$seqout->write_seq($seq);
-#     }
    }
-#	if ($fastq) {
-#		print "writing fastq\n";
-#		$seqout->write_fastq($seq);
-#	} else {
-     	$seqout->write_seq($seq);
-#    }
+   $seqout->write_seq($seq);
 
   if ($opt_x) {
     exit if ($cntall == $opt_x);
