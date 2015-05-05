@@ -125,7 +125,7 @@ while (my $seq = $seqio->next_seq()) {
     }
 
     #foreach my $feature (sort { $a->start() <=> $b->start() } (@tRNA, @rRNA)) {
-    foreach my $feature (sort { $a->start() <=> $b->start() } @RNA) {
+    for my $feature (sort { $a->start() <=> $b->start() } @RNA) {
 
             my $start = $feature->start();
             my $stop = $feature->end();
