@@ -126,7 +126,7 @@ while (my $seq = $seqin->next_seq()) {
         ++$outcnt;
         #my $new_file_out = "$file_out" . "_$outcnt";
         #my $new_file_out = $seq->accession() . "." . $seq->version() . ".gbk";
-        my $new_file_out = $seq->accession();
+        my $new_file_out = $seq->accession() . ".gbk";
         my $newFH;
         open($newFH, ">$new_file_out") or die "can't open '$new_file_out': $!";
         $seqout->_fh($newFH);
