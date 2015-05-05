@@ -57,9 +57,6 @@ my $seqio = Bio::SeqIO->new(
 
 open(my $PTT, ">", $infile . ".ptt");
 open(my $RNT, ">", $infile . ".rnt");
-say $PTT "Location\tStrand\tLength\tPID\tGene\tSynonym\tCode\tCOG\tProduct";
-say $RNT "Location\tStrand\tLength\tPID\tGene\tSynonym\tCode\tCOG\tProduct";
-# 516..1535	-	339	304570536	ilvC	SAR11_0001	-	COG0059EH	ketol-acid reductoisomerase
 
 my %tags = ();
 while (my $seq = $seqio->next_seq()) {
@@ -73,38 +70,42 @@ while (my $seq = $seqio->next_seq()) {
     }
 
     my @CDS = $seq->get_SeqFeatures('CDS');
-    my @tRNA = $seq->get_SeqFeatures('tRNA');
-    my @rRNA = $seq->get_SeqFeatures('rRNA');
-
-#    my @seqFeatures = $seq->get_SeqFeatures();
-#    say "# of features: '" . scalar(@seqFeatures) . "'" if ($debug);
+    my @RNA = $seq->get_SeqFeatures('tRNA');
+    push(@RNA,$seq->get_SeqFeatures('rRNA'));
 
     my $featcnt = 0;
-    for my $feature (@seqFeatures) {
+    
+    say $PTT $header1;
+    say $PTT scalar(@CDS) . " proteins";
+    say $RNT $header1;
+    say $RNT scalar(@RNA) . " RNAs";
+    say $PTT "Location\tStrand\tLength\tPID\tGene\tSynonym\tCode\tCOG\tProduct";
+    say $RNT "Location\tStrand\tLength\tPID\tGene\tSynonym\tCode\tCOG\tProduct";
+
+    for my $feature (@CDS) {
 
         my $tag = $feature->primary_tag();
         ++$tags{$tag};
 
-        if ($tag eq 'CDS') {
 
-            last if ($debug && ++$featcnt > 10);
+        last if ($debug && ++$featcnt > 10);
 
-            my $start = $feature->start();
-            my $stop = $feature->end();
-            my $strand = $feature->strand();
-            my $length = $feature->length();
-            my @pid = $feature->get_tag_values('protein_id');
-            my @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : '-';
-            my @synonym = $feature->get_tag_values('locus_tag');
-            my $code = '-';
-            my $cog = '-';
-            my @description = $feature->get_tag_values('product');
+        my $start = $feature->start();
+        my $stop = $feature->end();
+        my $strand = $feature->strand();
+        my $length = $feature->length();
+        my @pid = $feature->get_tag_values('protein_id');
+        my @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : '-';
+        my @synonym = $feature->get_tag_values('locus_tag');
+        my $code = '-';
+        my $cog = '-';
+        my @description = $feature->get_tag_values('product');
 
-            if ($strand > 0) {
-                $strand = '+';
-            } elsif ($strand < 0) {
-                $strand = '-';
-            }
+        if ($strand > 0) {
+            $strand = '+';
+        } elsif ($strand < 0) {
+            $strand = '-';
+        }
 
 #            my @misc = $feature->primary_tag('misc_feature');
 #
@@ -120,9 +121,11 @@ while (my $seq = $seqio->next_seq()) {
 #                }
 #            }
 
-            say $PTT $start . ".." . "$stop\t$strand\t$length\t$pid[0]\t$gene[0]\t$synonym[0]\t$code\t$cog\t$description[0]";
+        say $PTT $start . ".." . "$stop\t$strand\t$length\t$pid[0]\t$gene[0]\t$synonym[0]\t$code\t$cog\t$description[0]";
+    }
 
-        } elsif ($tag eq 'tRNA' || $tag eq 'rRNA') {
+    #foreach my $feature (sort { $a->start() <=> $b->start() } (@tRNA, @rRNA)) {
+    foreach my $feature (sort { $a->start() <=> $b->start() } @RNA) {
 
             my $start = $feature->start();
             my $stop = $feature->end();
@@ -137,6 +140,5 @@ while (my $seq = $seqio->next_seq()) {
 
             say $RNT $start . ".." . "$stop\t$strand\t$length\t$pid\t$gene[0]\t$synonym[0]\t$code\t$cog\t$description[0]";
         }
-    }
 }
 
