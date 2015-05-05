@@ -63,11 +63,21 @@ say $RNT "Location\tStrand\tLength\tPID\tGene\tSynonym\tCode\tCOG\tProduct";
 
 my %tags = ();
 while (my $seq = $seqio->next_seq()) {
+    my $header1 = $seq->desc() . " - 1.." . $seq->length();
 
-    say "\$seq isa '" . ref($seq) . "'" if ($debug);
+    if ($debug) {
+        say "\$seq isa '" . ref($seq) . "'" if ($debug);
+        say $seq->desc() . " - 1.." . $seq->length();
+        say "CDS: " . scalar($seq->get_SeqFeatures('CDS'));
+        exit();
+    }
 
-    my @seqFeatures = $seq->get_SeqFeatures();
-    say "# of features: '" . scalar(@seqFeatures) . "'" if ($debug);
+    my @CDS = $seq->get_SeqFeatures('CDS');
+    my @tRNA = $seq->get_SeqFeatures('tRNA');
+    my @rRNA = $seq->get_SeqFeatures('rRNA');
+
+#    my @seqFeatures = $seq->get_SeqFeatures();
+#    say "# of features: '" . scalar(@seqFeatures) . "'" if ($debug);
 
     my $featcnt = 0;
     for my $feature (@seqFeatures) {
@@ -118,14 +128,14 @@ while (my $seq = $seqio->next_seq()) {
             my $stop = $feature->end();
             my $strand = '+';
             my $length = $feature->length();
-            my @pid = $feature->get_tag_values('db_xref');
+            my $pid = $feature->has_tag('db_xref') ? ($feature->get_tag_values('db_xref'))[0] : ($feature->get_tag_values('locus_tag'))[0];
             my @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : '-';
             my @synonym = $feature->get_tag_values('locus_tag');
             my $code = '-';
             my $cog = '-';
             my @description = $feature->get_tag_values('product');
 
-            say $RNT $start . ".." . "$stop\t$strand\t$length\t$pid[0]\t$gene[0]\t$synonym[0]\t$code\t$cog\t$description[0]";
+            say $RNT $start . ".." . "$stop\t$strand\t$length\t$pid\t$gene[0]\t$synonym[0]\t$code\t$cog\t$description[0]";
         }
     }
 }

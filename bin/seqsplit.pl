@@ -102,14 +102,16 @@ if ($opt_d) {
 
 $seqin = Bio::SeqIO->new(
 						-file	=>	$file,
-						-format	=>	$infile_format,
+#						-format	=>	$infile_format,
+						-format	=>	'genbank',
 				);
 				
 				
 $seqout = Bio::SeqIO->new(
-							-format		=>	$outfile_format,
+    #-format		=>	$outfile_format,
+							-format		=>	'genbank',
 							# print sequence ID on quality lines also:
-							-quality_header	=>	1, # only affects fastq output
+                            # -quality_header	=>	1, # only affects fastq output
 						);
 					
 
@@ -123,7 +125,8 @@ while (my $seq = $seqin->next_seq()) {
         $cnt = 1;
         ++$outcnt;
         #my $new_file_out = "$file_out" . "_$outcnt";
-        my $new_file_out = $seq->accession() . "." . $seq->version() . ".fna";
+        #my $new_file_out = $seq->accession() . "." . $seq->version() . ".gbk";
+        my $new_file_out = $seq->accession();
         my $newFH;
         open($newFH, ">$new_file_out") or die "can't open '$new_file_out': $!";
         $seqout->_fh($newFH);
