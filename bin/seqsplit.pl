@@ -75,12 +75,6 @@ die "you must enter a value for the number of sequences per output file\n" unles
 if ($opt_o) {
   die "'$opt_o' isn't a valid file name\n" unless (&namecheck($opt_o));
   $file_out = $opt_o;
-#   if ($opt_o =~ /[\w\d\.\-_]/) {
-#     $file_out = $opt_o;
-#   } else {
-#     die "'$opt_o' isn't a valid file name\n";
-#   }
-
 } else {
   $file_out = $file;
 }
@@ -88,26 +82,21 @@ $outfile_format = $opt_O || 'fasta';
 #
 # Read output directory
 #
-#print "\$file_out = '$file_out'\n";
-#exit();
 if ($opt_d) {
-  if (&namecheck($opt_d)) {
-    if (&file_e($opt_d)) {
-      $dir = $opt_d;
+    if (&namecheck($opt_d)) {
+            if (&file_e($opt_d)) {
+                $dir = $opt_d;
 
-      if ($file_out =~ /^.+\/([\w\.\_\-]+)$/) {
-#	print "file base = '$1'\n";
-	$file_out = $1;
-      }
-      $file_out = "$dir" . "/" . "$file_out";
-#      print "\$file_out = '$file_out'\n";
-#      exit();
+                if ($file_out =~ /^.+\/([\w\.\_\-]+)$/) {
+                    $file_out = $1;
+                }
+                $file_out = "$dir" . "/" . "$file_out";
+            } else {
+                die "'$opt_d' doesn't exist\n";
+            }
     } else {
-      die "'$opt_d' doesn't exist\n";
+        die "'$opt_d' isn't a valid file name\n";
     }
-  } else {
-    die "'$opt_d' isn't a valid file name\n";
-  }
 }
 
 
@@ -118,28 +107,23 @@ $seqin = Bio::SeqIO->new(
 				
 				
 $seqout = Bio::SeqIO->new(
-#							-file		=>	'>test.fq',
 							-format		=>	$outfile_format,
 							# print sequence ID on quality lines also:
 							-quality_header	=>	1, # only affects fastq output
 						);
 					
-						
-#my $fastq = 0;
-#$fastq = 1 if (lc($outfile_format) =~ /fastq/);
 
 while (my $seq = $seqin->next_seq()) {
   ++$cnt;
-#  print "cnt = '$cnt'\n";
   ++$cntall;
   
    if ($cnt <= $splitnum && $cnt != 1) {
-#     $seqout->write_seq($seq);
+# 
    } else {
         $cnt = 1;
         ++$outcnt;
         #my $new_file_out = "$file_out" . "_$outcnt";
-        my $new_file_out = $seq->accession() . "." . $seq->version();
+        my $new_file_out = $seq->accession() . "." . $seq->version() . ".fna";
         my $newFH;
         open($newFH, ">$new_file_out") or die "can't open '$new_file_out': $!";
         $seqout->_fh($newFH);

@@ -55,8 +55,10 @@ my $seqio = Bio::SeqIO->new(
                                 -format =>  'genbank',
                             );
 
-open(my $OUT, ">", $infile . ".ptt");
-say $OUT "Location\tStrand\tLength\tPID\tGene\tSynonym\tCode\tCOG\tProduct";
+open(my $PTT, ">", $infile . ".ptt");
+open(my $RNT, ">", $infile . ".rnt");
+say $PTT "Location\tStrand\tLength\tPID\tGene\tSynonym\tCode\tCOG\tProduct";
+say $RNT "Location\tStrand\tLength\tPID\tGene\tSynonym\tCode\tCOG\tProduct";
 # 516..1535	-	339	304570536	ilvC	SAR11_0001	-	COG0059EH	ketol-acid reductoisomerase
 
 my %tags = ();
@@ -108,8 +110,22 @@ while (my $seq = $seqio->next_seq()) {
 #                }
 #            }
 
-            say $OUT $start . ".." . "$stop\t$strand\t$length\t$pid[0]\t$gene[0]\t$synonym[0]\t$code\t$cog\t$description[0]";
+            say $PTT $start . ".." . "$stop\t$strand\t$length\t$pid[0]\t$gene[0]\t$synonym[0]\t$code\t$cog\t$description[0]";
 
+        } elsif ($tag eq 'tRNA' || $tag eq 'rRNA') {
+
+            my $start = $feature->start();
+            my $stop = $feature->end();
+            my $strand = '+';
+            my $length = $feature->length();
+            my @pid = $feature->get_tag_values('db_xref');
+            my @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : '-';
+            my @synonym = $feature->get_tag_values('locus_tag');
+            my $code = '-';
+            my $cog = '-';
+            my @description = $feature->get_tag_values('product');
+
+            say $RNT $start . ".." . "$stop\t$strand\t$length\t$pid[0]\t$gene[0]\t$synonym[0]\t$code\t$cog\t$description[0]";
         }
     }
 }
