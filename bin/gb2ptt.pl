@@ -41,8 +41,12 @@ if ($help) {
 
 sub help {
 
-    say <<HELP;
+say <<HELP;
 
+--debug
+--verbose
+--help
+--infile
 
 HELP
 
