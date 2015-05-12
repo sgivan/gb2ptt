@@ -64,7 +64,7 @@ open(my $RNT, ">", $infile . ".rnt");
 
 my %tags = ();
 while (my $seq = $seqio->next_seq()) {
-    my $header1 = $seq->desc() . " - 1.." . $seq->length();
+    my $header1 = $seq->desc() || 'unknown' . " - 1.." . $seq->length();
 
     if ($debug) {
         say "\$seq isa '" . ref($seq) . "'" if ($debug);
