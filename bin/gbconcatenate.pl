@@ -80,9 +80,11 @@ while (my $seq = $seqio->next_seq()) {
 
     my $inlength = $concatseq->length();
     my @seqfeatures = $seq->get_SeqFeatures();
+    my @concatseqfeatures = $concatseq->get_SeqFeatures();
     if ($debug) {
         say "inlength = '$inlength'";
-        say $seq->desc() . " has " . scalar(@seqfeatures) . " features" if ($debug);
+        say "concat: " . $concatseq->desc() . " has length of " . $concatseq->length() . " and " . scalar(@concatseqfeatures) . " features";
+        say "seq: " . $seq->desc() . " has length of " . $seq->length() . " and " . scalar(@seqfeatures) . " features";
     }
 
     $concatseq->seq($concatseq->seq() . $joinseq . $seq->seq());

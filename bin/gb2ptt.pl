@@ -88,6 +88,8 @@ while (my $seq = $seqio->next_seq()) {
 
     for my $feature (@CDS) {
 
+        next if $feature->has_tag('pseudo');
+
         my $tag = $feature->primary_tag();
         ++$tags{$tag};
 
