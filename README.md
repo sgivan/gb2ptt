@@ -2,6 +2,7 @@
 Convert a Genbank flat file to an NCBI ptt file.
 
 ### DEPENDENCIES
+Perl http://perl.org
 BioPerl http://bioperl.org
 
 ### Usage
