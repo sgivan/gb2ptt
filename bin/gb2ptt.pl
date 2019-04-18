@@ -25,13 +25,14 @@ use warnings;
 use strict;
 use Bio::SeqIO;
 
-my ($debug,$verbose,$help,$infile);
+my ($debug,$verbose,$help,$infile,$rast);
 
 my $result = GetOptions(
     "debug"     =>  \$debug,
     "verbose"   =>  \$verbose,
     "help"      =>  \$help,
     "infile:s"  =>  \$infile,
+    "rast"      =>  \$rast,
 );
 
 if ($help) {
@@ -47,6 +48,7 @@ say <<HELP;
 --verbose
 --help
 --infile
+--rast (use with GenBank files downloaded from RAST)
 
 HELP
 
@@ -100,9 +102,16 @@ while (my $seq = $seqio->next_seq()) {
         my $stop = $feature->end();
         my $strand = $feature->strand();
         my $length = $feature->length();
-        my @pid = $feature->has_tag('protein_id') ? $feature->get_tag_values('protein_id') : $feature->get_tag_values('locus_tag');
-        my @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : '-';
-        my @synonym = $feature->get_tag_values('locus_tag');
+        my (@pid, @gene,@synonym);
+        if ($rast) {
+            @pid = $feature->has_tag('protein_id') ? $feature->get_tag_values('protein_id') : $feature->get_tag_values('db_xref');
+            @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : $feature->get_tag_values('db_xref'); 
+            @synonym = $feature->get_tag_values('db_xref');
+        } else {
+            @pid = $feature->has_tag('protein_id') ? $feature->get_tag_values('protein_id') : $feature->get_tag_values('locus_tag');
+            @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : '-';
+            @synonym = $feature->get_tag_values('locus_tag');
+        }
         my $code = '-';
         my $cog = '-';
         my @description = $feature->get_tag_values('product');
@@ -137,9 +146,16 @@ while (my $seq = $seqio->next_seq()) {
             my $stop = $feature->end();
             my $strand = '+';
             my $length = $feature->length();
-            my $pid = $feature->has_tag('db_xref') ? ($feature->get_tag_values('db_xref'))[0] : ($feature->get_tag_values('locus_tag'))[0];
-            my @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : '-';
-            my @synonym = $feature->get_tag_values('locus_tag');
+            my ($pid, @gene, @synonym);
+            if ($rast) {
+                $pid = $feature->has_tag('db_xref') ? ($feature->get_tag_values('db_xref'))[0] : ($feature->get_tag_values('db_xref'))[0];
+                @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : $feature->get_tag_values('db_xref');
+                @synonym = $feature->get_tag_values('db_xref');
+            } else {
+                $pid = $feature->has_tag('db_xref') ? ($feature->get_tag_values('db_xref'))[0] : ($feature->get_tag_values('locus_tag'))[0];
+                @gene = $feature->has_tag('gene') ? $feature->get_tag_values('gene') : '-';
+                @synonym = $feature->get_tag_values('locus_tag');
+            }
             my $code = '-';
             my $cog = '-';
             my @description = $feature->get_tag_values('product');
