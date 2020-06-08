@@ -11,3 +11,4 @@ If your input file is named file.gb, run the script like this:
 
 `perl gb2ppt.pl --infile file.gb`
 
+## branch from dayhoff
